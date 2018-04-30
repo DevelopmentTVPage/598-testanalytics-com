@@ -1,0 +1,93 @@
+{
+    "title": "Cynoculars Virtual Reality Headset and Remote",
+    "description": "Get an awesome 3D experience, seeing images, movies and games on your phone in a whole new way, with the Cynoculars Virtual Reality Headset and Remote. The device mounts to your phone to create a 360 degree environment.",
+    "referenceId": "2b44679d5443bdba7ba468f7cdc86811",
+    "date_created": "1506457295",
+    "date_modified": "1506457821",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "toys_and_learning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119704834",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Cynoculars-47104365-mp4",
+    "category": "",
+    "duration": "91",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "91",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/thumb-2b44679d5443bdba7ba468f7cdc86811-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has subtitles.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/26\/17"
+}

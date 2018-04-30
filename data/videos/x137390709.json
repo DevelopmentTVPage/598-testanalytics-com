@@ -1,0 +1,101 @@
+{
+    "title": "Zuo Unico Modern Office Chair",
+    "description": "Zuo Modern Unico Office Chair Black. Forget ordinary office chairs and get noticed with the Unico Office Chair. This modern office chair has a unique shape, with a high back for comfort and support. The Unico Office Chair features leatherette cushions for a great modern look, as well as adjustable armrests and a rolling base for comfort and convenience.\n\nSold by Incite Seating\nAvailable at https:\/\/www.inciteseating.com\nProduct Link: http:\/\/bit.ly\/2w4SJpX",
+    "referenceId": "4c16d0633d936150301cc7259127b1ed",
+    "date_created": "1515780372",
+    "date_modified": "1515781183",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390709",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Zuo-Unico-Modern-Office-Chair-mp4",
+    "category": "",
+    "duration": "53",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "53",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/thumb-4c16d0633d936150301cc7259127b1ed-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390709\/5708f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390709\/cc\/vtt\/en_1515781183.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

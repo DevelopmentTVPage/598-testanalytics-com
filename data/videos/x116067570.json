@@ -1,0 +1,93 @@
+{
+    "title": "Dyson V6 Absolute Cordless Stick Vacuum",
+    "description": "",
+    "referenceId": "fdeb8d134a5c1ba6be0f41146cb4fc75",
+    "date_created": "1504639305",
+    "date_modified": "1504647854",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "116067570",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-30-mp4",
+    "category": "",
+    "duration": "146",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "146",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "146",
+        "prettyDuration": "00:02:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/thumb-fdeb8d134a5c1ba6be0f41146cb4fc75-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067570\/999b9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "3\/24\/2016",
+    "created_date": "3\/24\/2016"
+}

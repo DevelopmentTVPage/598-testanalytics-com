@@ -1,0 +1,93 @@
+{
+    "title": "DaVinci Piper All-Purpose Upholstered Glider Recliner",
+    "description": "We worked with moms to design the DaVinci Piper Glider Recliner so that it has exactly the features you need. The 360 swivel motion, forward and backward gliding function and plush popup leg rest provide comfort for feeding and putting baby to rest.",
+    "referenceId": "b3e2d69a75d6998b5913f60704c14aac",
+    "date_created": "1516287637",
+    "date_modified": "1516288133",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "furniture",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "138127120",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Piper-mp4",
+    "category": "",
+    "duration": "40",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "40",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/thumb-b3e2d69a75d6998b5913f60704c14aac-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138127120\/7db22\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Natalia Santos",
+    "modified_date": "",
+    "created_date": "01\/18\/2018"
+}

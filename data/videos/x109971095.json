@@ -1,0 +1,97 @@
+{
+    "title": "Cabeau Evolution Cool Travel Pillow",
+    "description": "",
+    "referenceId": "1275682311",
+    "date_created": "1502519197",
+    "date_modified": "1504283937",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109971095",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cabeau-evolution-cool-travel-pillow",
+    "category": "",
+    "duration": "56",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "56",
+            "width": 1920,
+            "height": 1062
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/157705543-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109971095\/cc\/vtt\/en_1504226884.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1062
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 708
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 472
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 354
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971095\/06c81\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "2\/22\/2017",
+    "created_date": "2\/22\/2017"
+}

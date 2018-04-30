@@ -1,0 +1,97 @@
+{
+    "title": "OXO Good Grips&reg; Box Grater With Storage",
+    "description": "",
+    "referenceId": "1026988127",
+    "date_created": "1502517235",
+    "date_modified": "1516295820",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109960366",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oxo-good-grips-box-grater-with-storage",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "72",
+            "width": 864,
+            "height": 486
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/thumb-e0dcdd96399d2f2843009d42ef6fc278-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109960366\/cc\/vtt\/en_1516295814.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 864,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 864,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960366\/a04be\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "douglas.french",
+    "modified_date": "11\/18\/2014",
+    "created_date": "11\/18\/2014"
+}

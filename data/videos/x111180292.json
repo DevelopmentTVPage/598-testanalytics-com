@@ -1,0 +1,97 @@
+{
+    "title": "iHome Wireless Speaker System",
+    "description": "",
+    "referenceId": "33826",
+    "date_created": "1502924306",
+    "date_modified": "1516653571",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180292",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ihome-wireless-speaker-system",
+    "category": "",
+    "duration": "84",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "84",
+            "width": 720,
+            "height": 404
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/thumb-33826-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180292\/cc\/vtt\/en_1516653565.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180292\/508ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/4\/2011",
+    "created_date": "10\/3\/2011"
+}

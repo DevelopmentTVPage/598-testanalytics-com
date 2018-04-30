@@ -1,0 +1,89 @@
+{
+    "title": "Silpat Baking Mat",
+    "description": "",
+    "referenceId": "47491",
+    "date_created": "1502525565",
+    "date_modified": "1506967982",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110006466",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "silpat-baking-mat",
+    "category": "",
+    "duration": "96",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "96",
+            "width": 1264,
+            "height": 720
+        },
+        "mediaDuration": "96",
+        "prettyDuration": "00:01:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/thumb-4729a02b47aa5b619563e7afa0a107d7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1264,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1264,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 844,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 632,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110006466\/118bf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": ""
+}

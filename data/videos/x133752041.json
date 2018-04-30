@@ -1,0 +1,93 @@
+{
+    "title": "Ju-Ju-Be Be Pumped \/ Be Supplied Breastpump Bags",
+    "description": "",
+    "referenceId": "215302fb9a7068303067c3f84cd0d816",
+    "date_created": "1513357835",
+    "date_modified": "1513358808",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "nursing_and_feeding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "133752041",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "JJB-BePumpedBeSupplied-DPBG-mp4",
+    "category": "",
+    "duration": "91",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "91",
+            "width": 850,
+            "height": 442
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/thumb-215302fb9a7068303067c3f84cd0d816-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 850,
+                "height": 442
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 850,
+                "height": 442
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 850,
+                "height": 442
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133752041\/47e63\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 166
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has subtitles.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "12\/15\/17"
+}

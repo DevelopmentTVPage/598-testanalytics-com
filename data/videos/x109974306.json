@@ -1,0 +1,97 @@
+{
+    "title": "Dex 2-n-1 Safety Gate",
+    "description": "",
+    "referenceId": "13537",
+    "date_created": "1502519844",
+    "date_modified": "1516727424",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109974306",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "dex-2-n-1-safety-gate",
+    "category": "",
+    "duration": "280",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "280",
+            "width": 900,
+            "height": 600
+        },
+        "mediaDuration": "280",
+        "prettyDuration": "00:04:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/thumb-268b1803cb6158aa803db5d6bba71a06-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109974306\/cc\/vtt\/en_1516727330.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 900,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 900,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974306\/8ed33\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Richard.Fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/21\/2010"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Hoover Carpet Cleaner - short version",
+    "description": "",
+    "referenceId": "4155",
+    "date_created": "1502924539",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180397",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hoover-carpet-cleaner-short-version",
+    "category": "",
+    "duration": "121",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "121",
+            "width": 320,
+            "height": 240
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "121",
+        "prettyDuration": "00:02:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/thumb-4155-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180397\/7e451\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180397\/cc\/vtt\/en_1504135650.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Kristen.Hastings",
+    "modified_date": "12\/10\/2011",
+    "created_date": "6\/12\/2009"
+}

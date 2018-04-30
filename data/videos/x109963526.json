@@ -1,0 +1,97 @@
+{
+    "title": "Breville&reg; ThermalPro&trade; Cookware",
+    "description": "",
+    "referenceId": "1082807511",
+    "date_created": "1502517653",
+    "date_modified": "1515807371",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109963526",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-thermalpro-cookware",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "126",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/thumb-3758b2a453007a55944b1a9c54253e9d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109963526\/cc\/vtt\/en_1515807360.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963526\/41ca6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "11\/22\/2016",
+    "created_date": "11\/22\/2016"
+}

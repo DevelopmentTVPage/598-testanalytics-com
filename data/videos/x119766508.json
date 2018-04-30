@@ -1,0 +1,101 @@
+{
+    "title": "Evenflo ExerSaucer Triple Fun World Explorer Activity Learning Center",
+    "description": "",
+    "referenceId": "726c821253e9ee4f77cc20c7b7aaa332",
+    "date_created": "1506529702",
+    "date_modified": "1516744334",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119766508",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ExerSaucer-World-Explorer-Triple-Fun-Plus-Product-Tour-mp4",
+    "category": "",
+    "duration": "56",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "56",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/thumb-726c821253e9ee4f77cc20c7b7aaa332-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119766508\/cc\/vtt\/en_1516744306.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766508\/18d32\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Julie McLaughlin",
+    "modified_date": "9\/27\/2017",
+    "created_date": "9\/27\/2017"
+}

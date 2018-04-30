@@ -1,0 +1,101 @@
+{
+    "title": "OXO Bath Toy Bin",
+    "description": "http:\/\/www.oxo.com\/p-1310-bath-toy-bin.aspx\n\nGive your tot's bathtime toys a compact, convenient home in the OXO Tot Bath Toy Bin.  This slim Bin features a large, soft, comfortable handle to easily scoop toys out of the tub.  Place the Bin on the sturdy plate to store, or use its flat bottom to stand it up next to the bathtub.  Large holes let air get through and water drain so toys and accessories dry quickly. The sleek, compact design is perfect for any bathroom d\u00e9cor and is great for smaller or shared bathrooms. Don't let the name fool you -- the Bath Toy Bin is also great for storing shampoo and body wash bottles!  The Bin is dishwasher safe for easy cleaning.",
+    "referenceId": "86e916eb06670d18570cd102936af40e",
+    "date_created": "1515783991",
+    "date_modified": "1515801580",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390746",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-9-mp4",
+    "category": "",
+    "duration": "58",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "58",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/thumb-86e916eb06670d18570cd102936af40e-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390746\/73ef0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390746\/cc\/vtt\/en_1515801580.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

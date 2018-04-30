@@ -1,0 +1,101 @@
+{
+    "title": "Crafthouse by Fortessa Stainless Steel Boston Shaker",
+    "description": "Add to the functionality and ambience of your home's bar with the Crafthouse by Fortessa Boston Shaker.",
+    "referenceId": "6083a6cc24ee585e7767413b2f9fcbdd",
+    "date_created": "1508424815",
+    "date_modified": "1508861432",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "dining_entertaining",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "requested",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "123658300",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Boston-Shaker-How-to-Hold-Seal-and-Open-1-mp4",
+    "category": "",
+    "duration": "110",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/thumb-6083a6cc24ee585e7767413b2f9fcbdd-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123658300\/cc\/vtt\/en_1508861413.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658300\/a0bc7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Sabrina Maldonado",
+    "modified_date": "",
+    "created_date": "10\/19\/2017"
+}

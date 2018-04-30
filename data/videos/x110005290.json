@@ -1,0 +1,97 @@
+{
+    "title": "My Brest Friend",
+    "description": "",
+    "referenceId": "46735",
+    "date_created": "1502525272",
+    "date_modified": "1516391627",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110005290",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "my-brest-friend",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/thumb-3e3dc0d80a447356fded18dd26cd62a3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110005290\/cc\/vtt\/en_1516391622.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005290\/4cf86\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "3\/15\/2012",
+    "created_date": "3\/15\/2012"
+}

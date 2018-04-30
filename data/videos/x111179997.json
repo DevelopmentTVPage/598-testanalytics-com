@@ -1,0 +1,97 @@
+{
+    "title": "Soda Stream Soda Machine",
+    "description": "",
+    "referenceId": "16265",
+    "date_created": "1502923631",
+    "date_modified": "1516985795",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179997",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "soda-stream-soda-machine",
+    "category": "",
+    "duration": "128",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "128",
+            "width": 872,
+            "height": 480
+        },
+        "mediaDuration": "128",
+        "prettyDuration": "00:02:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/thumb-16265-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179997\/cc\/vtt\/en_1516985777.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 470
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 352
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179997\/0ce27\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/9\/2011",
+    "created_date": "11\/10\/2010"
+}

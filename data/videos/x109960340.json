@@ -1,0 +1,89 @@
+{
+    "title": "Zoku&reg; Quick Pop&trade; Maker",
+    "description": "",
+    "referenceId": "1017842289",
+    "date_created": "1502517168",
+    "date_modified": "1504290481",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109960340",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "zoku-quick-pop-maker",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "65",
+            "width": 1906,
+            "height": 1080
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/thumb-6dd3a1b3218a048800af4f4a2efc9392-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1906,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1270,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960340\/45da6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "douglas.french",
+    "modified_date": "5\/4\/2015",
+    "created_date": "5\/4\/2015"
+}

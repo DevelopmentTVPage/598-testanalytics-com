@@ -1,0 +1,90 @@
+{
+    "title": "Breville&reg; Grind Control&trade;Coffee Maker",
+    "description": "",
+    "referenceId": "1160240207",
+    "date_created": "1502518272",
+    "date_modified": "1504288933",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109966763",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-grind-control-coffee-maker",
+    "category": "",
+    "duration": "118",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "118",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "118",
+        "prettyDuration": "00:01:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/thumb-e534b452569e35b4aabe018e11ef226f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966763\/0c53f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "Douglas.French",
+    "modified_date": "8\/13\/2015",
+    "created_date": "8\/13\/2015"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Magic Tracks",
+    "description": "Kids will love creating their own glow in the dark speedway with Magic Tracks. Watch as the LED light-up cars fly down the tracks, following the crazy twists and turns. Turn the lights off for even more excitement and see your tracks glow.",
+    "referenceId": "1b8ba0f17d4ed2c82a0c42b0f908861a",
+    "date_created": "1506107670",
+    "date_modified": "1515543970",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "toys_and_learning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": null,
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119182432",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "MAGIC-TRACKS-web-mp4",
+    "category": "",
+    "duration": "79",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "79",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/thumb-1b8ba0f17d4ed2c82a0c42b0f908861a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has subtitles.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/22\/17"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Olive Upholstered Swivel Glider with Ottoman",
+    "description": "",
+    "referenceId": "cfeb7c5eff008240fff5a8014080c0d4",
+    "date_created": "1505482728",
+    "date_modified": "1505483415",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "done",
+    "cc_request": "n_a",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117669039",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Olive-Glider-and-Ottoman-mp4",
+    "category": "",
+    "duration": "40",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "40",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/thumb-cfeb7c5eff008240fff5a8014080c0d4-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669039\/2dc5d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Julie McLaughlin",
+    "modified_date": "9\/15\/2017",
+    "created_date": "9\/15\/2017"
+}

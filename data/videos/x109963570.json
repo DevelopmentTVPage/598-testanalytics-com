@@ -1,0 +1,97 @@
+{
+    "title": "Spa Sonic",
+    "description": "",
+    "referenceId": "1099077256",
+    "date_created": "1502517782",
+    "date_modified": "1516124514",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109963570",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "spa-sonic",
+    "category": "",
+    "duration": "111",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "111",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/thumb-774d44e4712c2eaa3dba83e4a4107b83-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109963570\/cc\/vtt\/en_1516124494.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963570\/d0121\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "5\/14\/2013",
+    "created_date": "5\/14\/2013"
+}

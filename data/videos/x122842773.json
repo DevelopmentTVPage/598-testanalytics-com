@@ -1,0 +1,101 @@
+{
+    "title": "Delta J is for Jeep Cross Country Sport Plus Jogger Stroller",
+    "description": "",
+    "referenceId": "6f17b5a197823b857702fa474c6a4c12",
+    "date_created": "1507727780",
+    "date_modified": "1516743093",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "strollers",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "122842773",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "DeltaJ-60194459-mp4",
+    "category": "",
+    "duration": "113",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "113",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "113",
+        "prettyDuration": "00:01:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/thumb-6f17b5a197823b857702fa474c6a4c12-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/122842773\/cc\/vtt\/en_1516743069.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842773\/e5941\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/11\/17"
+}

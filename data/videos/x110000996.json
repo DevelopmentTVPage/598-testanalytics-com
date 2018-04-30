@@ -1,0 +1,90 @@
+{
+    "title": "simplehuman&reg; 10X Mini Sensor Travel Mirror",
+    "description": "",
+    "referenceId": "1953969119",
+    "date_created": "1502524501",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110000996",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "simplehuman-10x-mini-sensor-travel-mirror",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "54",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/thumb-e082e92affdc9a24b8e295accf309baa-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000996\/ddbda\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "douglas.french",
+    "modified_date": "4\/18\/2017",
+    "created_date": "4\/18\/2017"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Calphalon Contemporary Non-Stick Bronze Anodized Edition Cookware",
+    "description": "",
+    "referenceId": "32785",
+    "date_created": "1502924259",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180272",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "calphalon-contemporary-non-stick-bronze-anodized-edition-cookware",
+    "category": "",
+    "duration": "78",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "78",
+            "width": 960,
+            "height": 540
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/thumb-32785-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180272\/1b3bd\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180272\/cc\/vtt\/en_1504117557.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "9\/21\/2011",
+    "created_date": "9\/20\/2011"
+}

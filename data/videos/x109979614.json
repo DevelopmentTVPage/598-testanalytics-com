@@ -1,0 +1,97 @@
+{
+    "title": "SpaRoom&trade; Essentials Ultramist Ceramic Diffuser",
+    "description": "",
+    "referenceId": "1464030359",
+    "date_created": "1502520726",
+    "date_modified": "1504281679",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109979614",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sparoom-essentials-ultramist-ceramic-diffuser",
+    "category": "",
+    "duration": "141",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "141",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "141",
+        "prettyDuration": "00:02:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/thumb-5747a8c81c571011f522bf7d44ba08c3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979614\/85fc5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109979614\/cc\/vtt\/en_1504281679.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "4\/30\/2014",
+    "created_date": "4\/30\/2014"
+}

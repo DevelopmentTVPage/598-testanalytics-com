@@ -1,0 +1,97 @@
+{
+    "title": "Instyler&reg; Wet to Dry Rotating Styling Iron",
+    "description": "",
+    "referenceId": "1336740842",
+    "date_created": "1502519727",
+    "date_modified": "1516299299",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109973262",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "instyler-wet-to-dry-rotating-styling-iron",
+    "category": "",
+    "duration": "161",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "161",
+            "width": 834,
+            "height": 480
+        },
+        "mediaDuration": "161",
+        "prettyDuration": "00:02:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/thumb-d656546e87dc3430ac6af323ddd03074-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109973262\/cc\/vtt\/en_1516299286.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 626,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 184
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "10\/29\/2013",
+    "created_date": "10\/29\/2013"
+}

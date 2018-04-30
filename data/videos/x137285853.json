@@ -1,0 +1,101 @@
+{
+    "title": "Tovolo Flex-Core Spatulas",
+    "description": "The new standard in spatulas. We've added a nylon core to the head of our silicone spatula, creating a spatula rigid enough to tackle heavy mixing jobs, yet still flexible on the edges to give you the perfect scrape.",
+    "referenceId": "6daee4463a42386f7fc8f124d030991d",
+    "date_created": "1515708650",
+    "date_modified": "1516410366",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285853",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Tovolo-Flex-Core-Spatulas-mp4",
+    "category": "",
+    "duration": "50",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "50",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/thumb-6daee4463a42386f7fc8f124d030991d-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285853\/cc\/vtt\/en_1516410362.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285853\/000d0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

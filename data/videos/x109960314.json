@@ -1,0 +1,97 @@
+{
+    "title": "Hurom&reg; Elite HH-SBB11 Slow Juicer",
+    "description": "",
+    "referenceId": "1008234195",
+    "date_created": "1502517019",
+    "date_modified": "1504288580",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109960314",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hurom-elite-hh-sbb11-slow-juicer",
+    "category": "",
+    "duration": "116",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "116",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "116",
+        "prettyDuration": "00:01:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/thumb-778c91d5a7db023e96e845ff093ea218-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960314\/39a73\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109960314\/cc\/vtt\/en_1504288580.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "12\/19\/2014",
+    "created_date": "12\/19\/2014"
+}

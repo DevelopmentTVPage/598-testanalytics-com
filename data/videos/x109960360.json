@@ -1,0 +1,89 @@
+{
+    "title": "Braun&reg; Series 7 799cc-6 System Men's Wet &amp; Dry Shaver",
+    "description": "",
+    "referenceId": "1024339092",
+    "date_created": "1502517220",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109960360",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "braun-series-7-799cc-6-system-men-s-wet-dry-shaver",
+    "category": "",
+    "duration": "149",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "149",
+            "width": 654,
+            "height": 480
+        },
+        "mediaDuration": "149",
+        "prettyDuration": "00:02:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/thumb-49bc70776bbf9f3307ece1ed30f9f2af-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 490,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960360\/5bfaf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 234
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "FTP",
+    "modified_date": "12\/13\/2013",
+    "created_date": "12\/13\/2013"
+}

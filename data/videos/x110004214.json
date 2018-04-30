@@ -1,0 +1,97 @@
+{
+    "title": "Metrokane Retro Ice Crusher",
+    "description": "",
+    "referenceId": "41591",
+    "date_created": "1502525064",
+    "date_modified": "1516736137",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004214",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "metrokane-retro-ice-crusher",
+    "category": "",
+    "duration": "44",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "44",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/thumb-123073d9dd7483cc1b92042aa150cfe8-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004214\/cc\/vtt\/en_1516736114.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004214\/4e3c1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "amy.gibbons",
+    "modified_date": "1\/6\/2014",
+    "created_date": "12\/16\/2011"
+}

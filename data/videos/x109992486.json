@@ -1,0 +1,97 @@
+{
+    "title": "Pineapple Slicer and Wedger",
+    "description": "",
+    "referenceId": "1783535775",
+    "date_created": "1502523268",
+    "date_modified": "1516984914",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109992486",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "pineapple-slicer-and-wedger",
+    "category": "",
+    "duration": "130",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "130",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/thumb-b932207fb4b1ae8b00444b282ae1c029-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109992486\/cc\/vtt\/en_1516984875.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992486\/91f23\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "ashley.davison",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

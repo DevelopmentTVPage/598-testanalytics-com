@@ -1,0 +1,101 @@
+{
+    "title": "Strollerbuddy\u00ae Stroller Clips White [2210]",
+    "description": "Dreambaby\u00ae Strollerbuddy\u00ae Stroller Clips [2211, 2210, 2212, 2213, 2214, 2217, 2219, 2220, 2224]\nOpens wide to fit most strollers\nStrong Grip holds covers firmly in place\nAssorted colors available\n\nFor more information visit the website relevant to your country.\nhttp:\/\/www.dream-baby.com\nhttp:\/\/www.dreambaby.com.au\nhttp:\/\/www.dreambaby.co.uk",
+    "referenceId": "e8596e3769fa9f42dc388a036dbf85dc",
+    "date_created": "1515777034",
+    "date_modified": "1515778289",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390643",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Strollerbuddy-Stroller-Clips-White-2210-mp4",
+    "category": "",
+    "duration": "38",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "38",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/743524194-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390643\/5df63\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390643\/cc\/vtt\/en_1515778289.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

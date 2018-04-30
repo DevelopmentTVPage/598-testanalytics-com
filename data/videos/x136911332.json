@@ -1,0 +1,101 @@
+{
+    "title": "Sealy Stain Defense Mattress Pad Covers",
+    "description": "",
+    "referenceId": "aae12faa570d83543248db25da49e275",
+    "date_created": "1515535303",
+    "date_modified": "1515535618",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "136911332",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Sealy-StainDefenseMattressPadCovers-44786847-mp4",
+    "category": "",
+    "duration": "118",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "118",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "118",
+        "prettyDuration": "00:01:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/thumb-aae12faa570d83543248db25da49e275-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/136911332\/cc\/vtt\/en_1515535588.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/136911332\/488a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Manually added SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/9\/18"
+}

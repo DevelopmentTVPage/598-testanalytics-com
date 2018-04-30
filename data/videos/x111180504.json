@@ -1,0 +1,97 @@
+{
+    "title": "Dyson The Ball - DC25 Animal DC25 DC24",
+    "description": "",
+    "referenceId": "5562",
+    "date_created": "1502924708",
+    "date_modified": "1516395364",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180504",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "dyson-the-ball-dc25-animal-dc25-dc24",
+    "category": "",
+    "duration": "50",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "50",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/thumb-5562-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180504\/cc\/vtt\/en_1516395347.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Kyle.Lukiewski",
+    "modified_date": "11\/25\/2013",
+    "created_date": "10\/29\/2009"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "OXO 22 lb Food Scale",
+    "description": "http:\/\/www.oxo.com\/p-1220-22-lb-food-scale-with-pull-out-display.aspx\n\nOXO's user-friendly 22 lb Food Scale with Pull-Out Display is perfect for weighing all ingredients. Weigh items directly on the platform,on a plate or in a bowl, and pull the display away from the base to prevent shadowing from large plates and bowls. Accurately measure ingredients when cooking and baking or stick to a diet by weighing portions. An optional back light makes the display easier to read and a weight indicator shows the capacity left on the Scale before maximum capacity is reached. Press the zero button to offset the weight of a container or to set the weight back to zero so you can add additional ingredients. The display features large, easy-to-read numbers which measure in 1\/8-ounce (US) and 1-gram (metric) increments. The Scale also measures volume in mL and cups for water-based ingredients, and features a conversion chart that slides out from the body to measure other popular ingredients like flour and oil. The stainless steel platform can be removed for cleaning. The Scale has a 22-pound capacity and four AAA batteries are included.\n\nIf you have questions or comments on the Food Scales, reach out to us on Facebook: http:\/\/www.facebook.com\/OXO or Twitter: http:\/\/twitter.com\/OXO",
+    "referenceId": "1fbe8e347eb3fe0fe9a09bedb90ed005",
+    "date_created": "1515783982",
+    "date_modified": "1515801555",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390742",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-7-mp4",
+    "category": "",
+    "duration": "111",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "111",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/thumb-1fbe8e347eb3fe0fe9a09bedb90ed005-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390742\/2539e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390742\/cc\/vtt\/en_1515801555.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

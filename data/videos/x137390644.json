@@ -1,0 +1,101 @@
+{
+    "title": "Bath Support with Foam Insert [668]",
+    "description": "The Dreambaby\u00ae Bath Support with Foam Insert [668] is suitable for newborns to 6 months. \nSupports babies up to 8kg\/17.5 lbs\nWith suction cups for stability\nHelps parents\/carers bathe babies\n\nFor more information visit the website relevant to your country.\n\nhttp:\/\/www.dream-baby.com\nhttp:\/\/www.dreambaby.com.au\nhttp:\/\/www.dreambaby.co.uk",
+    "referenceId": "015c6e51eeef46b052cd8f0ca859b98c",
+    "date_created": "1515777038",
+    "date_modified": "1515778395",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390644",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Bath-Support-with-Foam-Insert-668-mp4",
+    "category": "",
+    "duration": "46",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "46",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/307681889-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390644\/cc\/vtt\/en_1515778372.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390644\/22a23\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

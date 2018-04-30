@@ -1,0 +1,97 @@
+{
+    "title": "simplehuman Sensor Trash Can",
+    "description": "",
+    "referenceId": "22496",
+    "date_created": "1502524818",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110002111",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "simplehuman-sensor-trash-can",
+    "category": "",
+    "duration": "88",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "88",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "88",
+        "prettyDuration": "00:01:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/thumb-189df1c6260fd6521f2ea4d9878e78d8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002111\/4c0ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110002111\/cc\/vtt\/en_1504223461.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "2\/21\/2011"
+}

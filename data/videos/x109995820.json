@@ -1,0 +1,97 @@
+{
+    "title": "Philips Sonicare&reg; DiamondClean Rechargeable Toothbrush",
+    "description": "",
+    "referenceId": "1896016806",
+    "date_created": "1502523987",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109995820",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "philips-sonicare-diamondclean-rechargeable-toothbrush",
+    "category": "",
+    "duration": "131",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "131",
+            "width": 654,
+            "height": 480
+        },
+        "mediaDuration": "131",
+        "prettyDuration": "00:02:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/thumb-b605f3180ee6cfe83a9dd36b900bdf19-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 490,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995820\/2f632\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 234
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109995820\/cc\/vtt\/en_1504225426.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "12\/13\/2013",
+    "created_date": "12\/13\/2013"
+}

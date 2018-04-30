@@ -1,0 +1,91 @@
+{
+    "title": "SKIP HOP Light-Up Diaper Caddy",
+    "description": "The Nursery Style Light-Up Diaper Caddy makes changes easy day and night. This helpful caddy features a handle with built in, touch sensitive light for visibility during the night and lots of pockets for all of your baby's things.",
+    "referenceId": "043ffc4331224d7e9a4b1aa813a77148",
+    "date_created": "1516032922",
+    "date_modified": "1516208459",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "done",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "137711137",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SH-LightUpDiaperCaddy-mp4",
+    "category": "",
+    "duration": "38",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "38",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137711137\/5caa1\/thumb-043ffc4331224d7e9a4b1aa813a77148-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711137\/5caa1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711137\/5caa1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711137\/5caa1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711137\/5caa1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711137\/5caa1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Natalia Santos",
+    "modified_date": "",
+    "created_date": "01\/15\/2018"
+}

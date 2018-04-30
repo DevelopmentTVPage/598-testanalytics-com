@@ -1,0 +1,93 @@
+{
+    "title": "SKIP HOP Stroll & Go Portable Owl Baby Soother",
+    "description": "Calm and comfort your little one everywhere you go with the SKIP*HOP Stroll & Go Portable Owl Baby Soother. Attach to the handle of your tot's stroller or car seat to play soothing nature sounds or lullabies. It also has an auto-off feature and timer.",
+    "referenceId": "e625d279757412d23f0f6fe2858da5ef",
+    "date_created": "1516032995",
+    "date_modified": "1516208484",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "done",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "137711138",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SH-PortableBabySoother-mp4",
+    "category": "",
+    "duration": "42",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "42",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/thumb-e625d279757412d23f0f6fe2858da5ef-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711138\/1b26d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Natalia Santos",
+    "modified_date": "",
+    "created_date": ""
+}

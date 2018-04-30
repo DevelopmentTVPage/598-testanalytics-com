@@ -1,0 +1,89 @@
+{
+    "title": "Fisher Price Rainforest Waterfall Peek-a-Boo Soother",
+    "description": "",
+    "referenceId": "29877",
+    "date_created": "1502524922",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110003147",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "fisher-price-rainforest-waterfall-peek-a-boo-soother",
+    "category": "",
+    "duration": "50",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "50",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/thumb-951948b745f5d9a09e4591d0476b1f93-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003147\/cbdad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "7\/6\/2011"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "The KitchenAid\u00ae Architect Series 6-Quart Slow Cooker",
+    "description": "The KitchenAid\u00ae Architect Series 6-Quart Slow Cooker and easy serve lid maximizes your time for any occasion - from an easy weeknight dinner to a weekend potluck party. The hinged glass lid  lifts on both sides for easy access leaving your hands free for convenient serving. It has 24 hour programming with 4 temperature settingsthat provide greater cooking control. The 6-quart ceramic insert offers plenty of space to cook large cuts of meat or serve a crowd. Clean up is simple too, the ceramic insert is dishwasher safe. Premium performance, exceptional results & legendary KitchenAid\u00ae quality.",
+    "referenceId": "df49510dd73e6d895af69d191e371888",
+    "date_created": "1515718399",
+    "date_modified": "1516037095",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137334455",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-mp4",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/638\/359\/545554815-061638420.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334455\/a3467\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137334455\/cc\/vtt\/en_1516037095.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

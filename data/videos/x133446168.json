@@ -1,0 +1,101 @@
+{
+    "title": "Joovy New Groove Ultralight Umbrella Stroller",
+    "description": "",
+    "referenceId": "3004557a66fc39d1a92f53ae03fa6bd8",
+    "date_created": "1513286928",
+    "date_modified": "1513615448",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "strollers",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "133446168",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Joovy-NewGrooveUltralight-mp4",
+    "category": "",
+    "duration": "124",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "124",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "124",
+        "prettyDuration": "00:02:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/thumb-3004557a66fc39d1a92f53ae03fa6bd8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/133446168\/cc\/vtt\/en_1513615432.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133446168\/b1044\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. No transcript available.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "12\/14\/17"
+}

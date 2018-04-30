@@ -1,0 +1,101 @@
+{
+    "title": "Create the Perfect Holiday Home Bar Setup",
+    "description": "",
+    "referenceId": "bee729748b9ab1c4c1f9d11da0b70944",
+    "date_created": "1508338037",
+    "date_modified": "1508424599",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Food_Preparation",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "recipe_video",
+    "user_id": null,
+    "id": "123578694",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Create-the-Perfect-Holiday-Home-Bar-Setup-mov",
+    "category": "",
+    "duration": "98",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "98",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/thumb-bee729748b9ab1c4c1f9d11da0b70944-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123578694\/cc\/vtt\/en_1508420882.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578694\/a78cc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "SRT file added by Cory",
+    "uploader": "Cory",
+    "modified_date": "",
+    "created_date": "10\/18\/2017"
+}

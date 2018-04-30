@@ -1,0 +1,97 @@
+{
+    "title": "Oral-B&reg; Deep Sweep Electric Toothbrush Collection",
+    "description": "",
+    "referenceId": "1277297494",
+    "date_created": "1502519207",
+    "date_modified": "1504284812",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109971099",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oral-b-deep-sweep-electric-toothbrush-collection",
+    "category": "",
+    "duration": "73",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "73",
+            "width": 800,
+            "height": 600
+        },
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/thumb-fd1b754ada87003d28e34863bee4956a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971099\/d7aaa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109971099\/cc\/vtt\/en_1504284812.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "6\/20\/2014",
+    "created_date": "6\/20\/2014"
+}

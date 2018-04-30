@@ -1,0 +1,97 @@
+{
+    "title": "Napa Space Saver Assembly Instructions",
+    "description": "",
+    "referenceId": "42678",
+    "date_created": "1502525123",
+    "date_modified": "1504805836",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004234",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "napa-space-saver-assembly-instructions",
+    "category": "",
+    "duration": "1045",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "1045",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "1045",
+        "prettyDuration": "00:17:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/thumb-7df6c40f7e2bd64bb6dbddc005f0d0b7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004234\/272a8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004234\/cc\/vtt\/en_1504805836.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "richard.fagan",
+    "modified_date": "6\/6\/2014",
+    "created_date": "1\/13\/2012"
+}

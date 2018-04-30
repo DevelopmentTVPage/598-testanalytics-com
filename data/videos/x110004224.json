@@ -1,0 +1,97 @@
+{
+    "title": "BabyBjorn Carrier Miracle",
+    "description": "",
+    "referenceId": "42403",
+    "date_created": "1502525085",
+    "date_modified": "1516647255",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004224",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "babybjorn-carrier-miracle",
+    "category": "",
+    "duration": "136",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "136",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/thumb-542b06cfa3f3946f3651a61a4fd55b16-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004224\/cc\/vtt\/en_1516647251.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "2\/3\/2012",
+    "created_date": "2\/3\/2012"
+}

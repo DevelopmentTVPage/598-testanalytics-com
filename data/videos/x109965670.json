@@ -1,0 +1,89 @@
+{
+    "title": "Granite Gold&reg; Cleaner",
+    "description": "",
+    "referenceId": "1125688079",
+    "date_created": "1502517994",
+    "date_modified": "1504285280",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109965670",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "granite-gold-cleaner",
+    "category": "",
+    "duration": "91",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "91",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/thumb-704e6d76513d04baff84efa61bcb67c4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965670\/96d13\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "mike",
+    "modified_date": "8\/8\/2014",
+    "created_date": "8\/8\/2014"
+}

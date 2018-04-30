@@ -1,0 +1,97 @@
+{
+    "title": "Pur Horizontal Chrome Faucet Mount w LED Indicator and Three Stage Filtration",
+    "description": "",
+    "referenceId": "18913",
+    "date_created": "1502923813",
+    "date_modified": "1509668725",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180075",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "pur-horizontal-chrome-faucet-mount-w-led-indicator-and-three-stage-filtration",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "77",
+            "width": 640,
+            "height": 486
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/thumb-18913-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180075\/cc\/vtt\/en_1509668725.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 632,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 474,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180075\/cd96a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 316,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "12\/7\/2010"
+}

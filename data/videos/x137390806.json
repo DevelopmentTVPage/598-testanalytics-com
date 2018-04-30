@@ -1,0 +1,101 @@
+{
+    "title": "Timex Watch Production - Timex",
+    "description": "Get a behind the scenes look at the Timex production facility in Cebu, Philippines and learn what makes Timex the quality product you've known to love.",
+    "referenceId": "9de82dbf8251134ef2274c11996071b3",
+    "date_created": "1515787639",
+    "date_modified": "1516037159",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390806",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Timex-Watch-Production-Timex-mp4",
+    "category": "",
+    "duration": "246",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "246",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "246",
+        "prettyDuration": "00:04:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/thumb-9de82dbf8251134ef2274c11996071b3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390806\/cc\/vtt\/en_1516037153.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390806\/86aae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

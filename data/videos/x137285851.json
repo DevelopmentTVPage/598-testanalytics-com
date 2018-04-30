@@ -1,0 +1,101 @@
+{
+    "title": "You Can Even- SLEEK KNOT UPDO - Garnier Fructis Style",
+    "description": "Pretty and polished, this low knot will have you out the door in no time.\n\nStep One: Apply Sleek & Shine Flat Iron Protector to dry hair, then flat iron hair until it\u2019s smooth and pin straight. \n\nStep Two: Part hair. Apply Sleek & Shine Anti-Humidity Hairspray to hairbrush and brush it into a smooth low ponytail at the base of your neck. \n\nStep Three: Take your finger and make a hook, pulling out a small section of hair from the base of the ponytail for later. Secure ponytail with an elastic band.\n\nStep Four: Before releasing the ponytail, make a loose loop bun at the bottom. \n \nStep Five: Next, grab the small bit of hair that is leftover and wrap it around the base of the hair - hiding the hair tie and making a sleek band of hair. Tuck any loose ends of your hair underneath the knot, and secure with bobby pins.  \n\nStep Six: Spray Sleek & Shine Anti-Humidity Hairspray all over the final look. \n\nLearn more about Fructis Style: http:\/\/www.garnierusa.com\/products\/styling.aspx\n\nFind us on Instagram! @garnierusa http:\/\/instagram.com\/garnierusa\nLike us on Facebook! https:\/\/www.facebook.com\/garnierusa\nFollow us on Twitter! @garnierusa https:\/\/twitter.com\/garnierusa",
+    "referenceId": "78913c4fdd0017593858506eeb854b22",
+    "date_created": "1515708568",
+    "date_modified": "1515716567",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285851",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "You-Can-Even-SLEEK-KNOT-UPDO-Garnier-Fructis-Style-mp4",
+    "category": "",
+    "duration": "110",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/thumb-78913c4fdd0017593858506eeb854b22-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285851\/cc\/vtt\/en_1515716330.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285851\/633ab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

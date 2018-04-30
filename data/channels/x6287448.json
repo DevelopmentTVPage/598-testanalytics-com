@@ -1,0 +1,24 @@
+{
+    "title": "All-Clad",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438381889",
+    "date_modified": "1438382207",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6287448",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "All-Clad",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "619444874-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "619444874-013172109.png"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Flippin' Fantastic&trade; Nonstick Pancake Ring",
+    "description": "",
+    "referenceId": "1749550394",
+    "date_created": "1502522984",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109992388",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "flippin-fantastic-nonstick-pancake-ring",
+    "category": "",
+    "duration": "94",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "94",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/thumb-d3c371dc2b50ff399928d4983800630a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992388\/792ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "2\/22\/2017",
+    "created_date": "2\/22\/2017"
+}

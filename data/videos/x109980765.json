@@ -1,0 +1,97 @@
+{
+    "title": "Inglesina Zuma High Chair",
+    "description": "",
+    "referenceId": "1519782187",
+    "date_created": "1502521149",
+    "date_modified": "1504802720",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109980765",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "inglesina-zuma-high-chair",
+    "category": "",
+    "duration": "117",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "117",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "117",
+        "prettyDuration": "00:01:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/thumb-f28367894d587910e2d5d2d3c235df07-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980765\/c4f0b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109980765\/cc\/vtt\/en_1504802720.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "6\/25\/2015",
+    "created_date": "6\/25\/2015"
+}

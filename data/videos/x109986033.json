@@ -1,0 +1,97 @@
+{
+    "title": "Wobble Wag Giggle&trade; Ball Dog Toy",
+    "description": "",
+    "referenceId": "1619903661",
+    "date_created": "1502521946",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109986033",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "wobble-wag-giggle-ball-dog-toy",
+    "category": "",
+    "duration": "62",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "62",
+            "width": 1278,
+            "height": 986
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/thumb-3078833244c78a96e82ba318c38b73d6-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1278,
+                "height": 986
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 934,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 622,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 466,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109986033\/51901\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 312,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109986033\/cc\/vtt\/en_1504210454.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "3\/10\/2017",
+    "created_date": "3\/10\/2017"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Introducing Fitbit Blaze\u2122",
+    "description": "Get fit in style with Fitbit Blaze\u2122 \u2013 the smartest, most motivating, most stylish fitness tracker yet. This versatile timepiece fits seamlessly into your life with a sleek design, an enhanced fitness experience with advanced coaching,  easily interchangeable accessories, and the smart features you need to stay connected.",
+    "referenceId": "f625fc9d5d736536f26802677984a514",
+    "date_created": "1515715815",
+    "date_modified": "1516410997",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137286139",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-Fitbit-Blaze-mp4",
+    "category": "",
+    "duration": "94",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "94",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/thumb-f625fc9d5d736536f26802677984a514-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286139\/9016b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137286139\/cc\/vtt\/en_1516410997.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

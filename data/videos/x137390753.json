@@ -1,0 +1,99 @@
+{
+    "title": "KidKraft Toy Rockin' Motorcyles",
+    "description": "It\u2019s time to shoot for the stars! Kids are sure to love rocking back and forth on our Star Studded Rockin\u2019 Motorcycle. Rocking horses are a lot of fun, but this amazing motorcycle takes the fun to a whole other level. Features include:\n*Detailed motorcycle graphics\n*Plays realistic motorcycle sounds at the push of a button\n*Rocks back and forth\n*Anchored securely on anti-tip rockers to prevent tipping\n*Made of composite wood material with a leatherette seat\n*Packaged with detailed, step-by-step assembly instructions\n\nDimensions: 35.75\"L x 17.25\"W x 24.12\"H\nMaterials: MDF, Solid Wood\nCountry of Origin: China",
+    "referenceId": "3d94e4ca9343a0fca20151b4c7b8ff39",
+    "date_created": "1515785517",
+    "date_modified": "1515786569",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390753",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KidKraft-Toy-Rockin-Motorcyles-mp4",
+    "category": "",
+    "duration": "73",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "73",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390753\/6d043\/thumb-3d94e4ca9343a0fca20151b4c7b8ff39-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390753\/cc\/vtt\/en_1515785724.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390753\/6d043\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390753\/6d043\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390753\/6d043\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390753\/6d043\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390753\/6d043\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

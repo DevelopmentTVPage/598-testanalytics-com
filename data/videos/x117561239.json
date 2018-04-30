@@ -1,0 +1,101 @@
+{
+    "title": "Regional Foods Huli Huli Hawaiian Chicken",
+    "description": "A great Hawaiian regional food, Huli Huli chicken, is not only delicious, but you probably have all the ingredients in your kitchen right now.",
+    "referenceId": "e3749139b225d2353ed295d1dcd781a2",
+    "date_created": "1505315997",
+    "date_modified": "1505951797",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Recipes",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117561239",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Regional-Foods-Huli-Huli-Hawaiian-Chicken-mp4",
+    "category": "",
+    "duration": "56",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "56",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/810\/449\/632239257-01810450.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117561239\/cc\/vtt\/en_1505951509.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561239\/dac44\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC Needed",
+    "uploader": "Melissa Cohen",
+    "modified_date": "",
+    "created_date": "9\/13\/17"
+}

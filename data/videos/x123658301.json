@@ -1,0 +1,101 @@
+{
+    "title": "4 Ways to Use a Crock-Pot",
+    "description": "",
+    "referenceId": "5dc21bc9aeaa2fc6b608e86e9d70f6ce",
+    "date_created": "1508424878",
+    "date_modified": "1508426260",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Food_Preparation",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "recipe_video",
+    "user_id": null,
+    "id": "123658301",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "4-Ways-to-Use-a-Crock-Pot-mp4",
+    "category": "",
+    "duration": "84",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "84",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/thumb-5dc21bc9aeaa2fc6b608e86e9d70f6ce-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123658301\/cc\/vtt\/en_1508426021.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658301\/36a84\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "SRT File added by Cory",
+    "uploader": "Cory",
+    "modified_date": "",
+    "created_date": "10\/19\/2017"
+}

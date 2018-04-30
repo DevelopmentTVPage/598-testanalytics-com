@@ -1,0 +1,89 @@
+{
+    "title": "Fisher-Price Zen Cradle Swing",
+    "description": "",
+    "referenceId": "29862",
+    "date_created": "1502524912",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110003144",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "fisher-price-zen-cradle-swing",
+    "category": "",
+    "duration": "127",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "127",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "127",
+        "prettyDuration": "00:02:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/thumb-0a346a31d474dc8aa0d92ccbe2e05a5e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110003144\/09a52\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "7\/6\/2011"
+}

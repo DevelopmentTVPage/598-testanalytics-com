@@ -1,0 +1,89 @@
+{
+    "title": "John Louis Home Pull Out Valet Rod",
+    "description": "",
+    "referenceId": "1040207511",
+    "date_created": "1502517321",
+    "date_modified": "1504280402",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109961396",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "john-louis-home-pull-out-valet-rod",
+    "category": "",
+    "duration": "103",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "103",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "103",
+        "prettyDuration": "00:01:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/thumb-e1aafb2d0eb1ad8c1714e3de9c0f3709-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961396\/9adce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "steve",
+    "modified_date": "3\/28\/2014",
+    "created_date": "3\/28\/2014"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "SKIP HOP Explore & More Jumpscape Foldaway Jumper",
+    "description": "Your baby will love playing with Skip*Hop's Explore & More Jumpscape Foldaway Jumper. Featuring a 360\u00ba rotating seat, clip-on moveable toys and a light-up cloud bounce counter, this dynamic center provides hours of fun. And it fold flat for storage.",
+    "referenceId": "068acb5c179347a8dbc83aba5a284b4a",
+    "date_created": "1516029949",
+    "date_modified": "1516208206",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "how_to_do_video",
+    "user_id": null,
+    "id": "137711135",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SH-JumpscapeFoldAwayJumper-Instructional-NeedCC-mp4",
+    "category": "",
+    "duration": "177",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "177",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "177",
+        "prettyDuration": "00:02:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/thumb-068acb5c179347a8dbc83aba5a284b4a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137711135\/cc\/vtt\/en_1516208186.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137711135\/7e95f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Spoken words needs SRT file",
+    "uploader": "Natalia Santos",
+    "modified_date": "",
+    "created_date": "01\/15\/2018"
+}

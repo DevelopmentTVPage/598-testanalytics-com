@@ -1,0 +1,101 @@
+{
+    "title": "Dreambaby\u00ae Strollerbuddy\u00ae EZY-Fit Stroller Hooks [2252]",
+    "description": "Dreambaby\u00ae Strollerbuddy\u00ae EZY-Fit Stroller Hooks [2252] makes being on-the-go with children even easier.  \n\nThe Ezy-Fit Stroller Hooks are ideal to attach bags to your stroller for easy access.  The strong hook made of lightweight aluminum attaches easily and has a slip-resistant strap for extra grip on the stroller.Thread the strap around the handle , through the buckle and secure the hook and loop fabric together. \nAnd you are ready to go.\nEnsure not to overload stroller so that stroller does not tip over.\n\nFor more information visit the website relevant to your country.\n\nhttp:\/\/www.dream-baby.com\nhttp:\/\/www.dreambaby.com.au\nhttp:\/\/www.dreambaby.co.uk",
+    "referenceId": "ab16a91b5d16258aac536714d9ce8fd7",
+    "date_created": "1515780361",
+    "date_modified": "1515780745",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390705",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Dreambaby-Strollerbuddy-EZY-Fit-Stroller-Hooks-2252-mp4",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/399371773-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390705\/0dfe9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390705\/cc\/vtt\/en_1515780745.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

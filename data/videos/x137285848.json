@@ -1,0 +1,101 @@
+{
+    "title": "Lift Dirt and Makeup LIKE A MAGNET with New Micellar Makeup Removing Towelettes - Garnier SkinActive",
+    "description": "Wiping away dirt and makeup is even easier with New Micellar Towelettes. Watch the micelles and silky soft wipe work to effectively, yet gently remove makeup and cleanse skin whenever you need a refresh.\n\nLearn more about Micellar Makeup Remover All-in-1 Towelette: http:\/\/www.garnierusa.com\/products\/skincare\/micellar-cleansing-water\/micellar-on-the-go\/micellar-makeup-removing-towelettes.aspx\n\nLearn more about Micellar Water: http:\/\/www.garnierusa.com\/products\/skincare\/micellar-cleansing-water.aspx\n\nTo learn more about Garnier SkinActive: http:\/\/www.garnierusa.com\/products\/skincare.aspx\n\nFind us on Instagram! @garnierusa http:\/\/instagram.com\/garnierusa\nLike us on Facebook! https:\/\/www.facebook.com\/garnierusa\nFollow us on Twitter! @garnierusa https:\/\/twitter.com\/garnierusa",
+    "referenceId": "5db0e18dd9c642e7bfe5f5b53a5d02e8",
+    "date_created": "1515708545",
+    "date_modified": "1515716926",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285848",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Lift-Dirt-and-Makeup-LIKE-A-MAGNET-with-New-Micellar-Makeup-Removing-Towelettes-Garnier-SkinActive-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/thumb-5db0e18dd9c642e7bfe5f5b53a5d02e8-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285848\/cc\/vtt\/en_1515714975.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285848\/d4041\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

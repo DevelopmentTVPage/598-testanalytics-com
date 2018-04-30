@@ -1,0 +1,101 @@
+{
+    "title": "Maxi-Cosi Pria 70 Convertible Car Seat",
+    "description": "",
+    "referenceId": "5867976d7d02aadd62ec95130d2e3460",
+    "date_created": "1504819013",
+    "date_modified": "1516643122",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117019357",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Maxi-Cosi-Pria-70-Convertible-Car-Seat-mp4",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "126",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/thumb-5867976d7d02aadd62ec95130d2e3460-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117019357\/cc\/vtt\/en_1516643116.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117019357\/5c3e4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/15\/2011",
+    "created_date": "12\/14\/2011"
+}

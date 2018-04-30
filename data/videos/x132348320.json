@@ -1,0 +1,101 @@
+{
+    "title": "Vitamix\u00ae Explorian\u2122 Series E310 Blender in Black",
+    "description": "The Vitamix Explorian Series Blender boasts high-performance with powerful variable speed and pulse functions to create a wide variety of blended drinks. Features 2 peak output horsepower and laser-cut stainless steel blades for optimal blending results.",
+    "referenceId": "96ad639cf7a258a6e3cd8b794dca077f",
+    "date_created": "1512414158",
+    "date_modified": "1516756358",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "132348320",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "VitamixExplorianSeriesE310BlenderinBlack-mp4",
+    "category": "",
+    "duration": "43",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "43",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/thumb-96ad639cf7a258a6e3cd8b794dca077f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348320\/69ade\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132348320\/cc\/vtt\/en_1516756358.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Allison Mullen",
+    "modified_date": "12\/19\/2017",
+    "created_date": "12\/19\/2017"
+}

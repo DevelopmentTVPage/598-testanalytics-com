@@ -1,0 +1,101 @@
+{
+    "title": "Tooth Enamel - Crest",
+    "description": "Tooth enamel is the hard outer surface layer of your teeth that serves to protect against tooth decay. In fact, tooth enamel is considered the hardest mineral substance in your body. In this Oral Care Tip, learn about tooth enamel.\n\nCheck out more Crest Oral Care Tips at: https:\/\/www.youtube.com\/playlist?list=PLoWKwDW_5dhRvmh__U4EyxafavyYKvwfQ\n\nRead more about Tooth Enamel: https:\/\/crest.com\/en-us\/oral-care-topics\/enamel-health\/tooth-enamel\n\nFind out how Crest can help at: https:\/\/crest.com\/en-us\/oral-care-topics\/enamel-health\n\nClick here to subscribe to Crest: http:\/\/www.youtube.com\/subscription_center?add_user=crest",
+    "referenceId": "d11310f7f075993d9c6a92485e55c331",
+    "date_created": "1515778846",
+    "date_modified": "1515779223",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390673",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Tooth-Enamel-Crest-mp4",
+    "category": "",
+    "duration": "75",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "75",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/thumb-d11310f7f075993d9c6a92485e55c331-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390673\/9775e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390673\/cc\/vtt\/en_1515779223.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

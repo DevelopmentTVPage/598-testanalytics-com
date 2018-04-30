@@ -1,0 +1,101 @@
+{
+    "title": "NST17011_Outdoor_6_Rain_or_Shine_e06.mp4",
+    "description": "",
+    "referenceId": "b57493ab2f5f0e93c71bda3b270c5ccb",
+    "date_created": "1508939259",
+    "date_modified": "1509379089",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "125345350",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "NST17011-Outdoor-6-Rain-or-Shine-e06-mp4",
+    "category": "",
+    "duration": "6",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "6",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "6",
+        "prettyDuration": "00:00:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/thumb-b57493ab2f5f0e93c71bda3b270c5ccb-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/125345350\/cc\/vtt\/en_1509379055.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125345350\/25d00\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "upload for embed code",
+    "uploader": "K.Walczak",
+    "modified_date": "10.25.17",
+    "created_date": "10.25.17"
+}

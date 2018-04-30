@@ -1,0 +1,24 @@
+{
+    "title": "Yankee Candle",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1447358465",
+    "date_modified": "1447365064",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "7163988",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Yankee-Candle",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "549555819-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "549555819-0027001523.jpg"
+    },
+    "transcripts": null
+}

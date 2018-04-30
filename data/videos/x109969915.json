@@ -1,0 +1,89 @@
+{
+    "title": "Coco Stylewood Cappuccino Lounger by Bloom",
+    "description": "",
+    "referenceId": "1207747869",
+    "date_created": "1502518719",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109969915",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "coco-stylewood-cappuccino-lounger-by-bloom",
+    "category": "",
+    "duration": "19",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "19",
+            "width": 938,
+            "height": 720
+        },
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/thumb-ad6fb7ea7792559cec2c59c3bda933ef-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 938,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 938,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 626,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 468,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969915\/a723d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 312,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

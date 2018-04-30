@@ -1,0 +1,87 @@
+{
+    "title": "Vacu Vin Vacuum Coffee Saver",
+    "description": "",
+    "referenceId": "11760",
+    "date_created": "1502923343",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179873",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "vacu-vin-vacuum-coffee-saver",
+    "category": "",
+    "duration": "32",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "32",
+            "width": 400,
+            "height": 226
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 400,
+                "height": 226
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 400,
+                "height": 226
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 400,
+                "height": 226
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 400,
+                "height": 226
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/thumb-11760-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179873\/8e64d\/media.m3u8"
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "12\/8\/2011",
+    "created_date": "6\/14\/2010"
+}

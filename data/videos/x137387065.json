@@ -1,0 +1,99 @@
+{
+    "title": "STROLLER HOOK WITH COMBINATION LOCK LARGE [294].mp4",
+    "description": "STROLLER HOOK WITH COMBINATION LOCK LARGE [294] \nThe Dreambaby\u00ae Stroller Hook with Combination Lock adds safety and security to outdoor adventures. Perfect for protecting your stroller and shopping from theft, this is a must-have new item.",
+    "referenceId": "d44cf687fb2dea2ac9f55eef77071324",
+    "date_created": "1515720816",
+    "date_modified": "1515721163",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137387065",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "STROLLER-HOOK-WITH-COMBINATION-LOCK-LARGE-294-mp4",
+    "category": "",
+    "duration": "36",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "36",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "36",
+        "prettyDuration": "00:00:36",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/523164824-021280719.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137387065\/cc\/vtt\/en_1515721068.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387065\/69938\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387065\/69938\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387065\/69938\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387065\/69938\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387065\/69938\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

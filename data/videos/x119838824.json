@@ -1,0 +1,101 @@
+{
+    "title": "zyliss control under 2 minutes.mp4",
+    "description": "",
+    "referenceId": "dd54769ca4ad11ebf60019dbfe5189cd",
+    "date_created": "1506607057",
+    "date_modified": "1507136038",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "requested",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119838824",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "zyliss-control-under-2-minutes-mp4",
+    "category": "",
+    "duration": "121",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "121",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "121",
+        "prettyDuration": "00:02:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/thumb-dd54769ca4ad11ebf60019dbfe5189cd-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119838824\/cc\/vtt\/en_1507136030.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119838824\/acc97\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Zyliss upload for embed code only",
+    "uploader": "k.walczak",
+    "modified_date": "9.28.17",
+    "created_date": "9.28.17"
+}

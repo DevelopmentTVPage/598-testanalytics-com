@@ -1,0 +1,101 @@
+{
+    "title": "SpaRoom PocketAroma Diffusers",
+    "description": "",
+    "referenceId": "143eb28945da2b2c8497109b880cea4e",
+    "date_created": "1507216480",
+    "date_modified": "1507219658",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "health_and_beauty",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "121442631",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "PocketAroma-mp4",
+    "category": "",
+    "duration": "73",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "73",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/thumb-143eb28945da2b2c8497109b880cea4e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/121442631\/cc\/vtt\/en_1507219565.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121442631\/8ac4a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Added SRT file manually for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/5\/17"
+}

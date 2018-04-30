@@ -1,0 +1,97 @@
+{
+    "title": "Therapedic&reg; Pillow",
+    "description": "",
+    "referenceId": "1416720569",
+    "date_created": "1502520343",
+    "date_modified": "1504291607",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109977475",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "therapedic-pillow",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "126",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/thumb-f6d20f318e5bf57456a0529de440459f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977475\/bb037\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109977475\/cc\/vtt\/en_1504291607.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "6\/25\/2015",
+    "created_date": "6\/25\/2015"
+}

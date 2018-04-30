@@ -1,0 +1,97 @@
+{
+    "title": "Norelco Arcitec Rechargeable Cordess Razor",
+    "description": "",
+    "referenceId": "5072",
+    "date_created": "1502924636",
+    "date_modified": "1516824681",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180457",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "norelco-arcitec-rechargeable-cordess-razor",
+    "category": "",
+    "duration": "176",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "176",
+            "width": 320,
+            "height": 180
+        },
+        "mediaDuration": "176",
+        "prettyDuration": "00:02:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/thumb-5072-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180457\/cc\/vtt\/en_1516824681.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "9\/4\/2009"
+}

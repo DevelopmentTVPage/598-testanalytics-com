@@ -1,0 +1,101 @@
+{
+    "title": "City Select by Baby Jogger",
+    "description": "Designed to keep your growing family rolling. Converts from a single to double stroller. With over 16 configurations you can customize your stroller to fit your needs perfectly. Whether you\u2019re looking for a travel system, a pram, a double stroller, a triple, or just a single, the City Select could be the only stroller you\u2019ll ever need. The City Select is not intended for jogging",
+    "referenceId": "3069b463d36be02554f934272ee95bd9",
+    "date_created": "1515787645",
+    "date_modified": "1515790708",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390807",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "City-Select-by-Baby-Jogger-mp4",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "85",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/thumb-3069b463d36be02554f934272ee95bd9-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390807\/e4eac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390807\/cc\/vtt\/en_1515790706.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

@@ -1,0 +1,101 @@
+{
+    "title": "New Moisture Bomb Gives You Lasting HYDRATION I Garnier SkinActive",
+    "description": "The dry skin culprit no one is talking about? A damaged moisture barrier. New Moisture Bomb from Garnier SkinActive is packed with antioxidant-rich Goji Berry and Pomegranate to help strengthen skin's moisture barrier to keep skin hydrated. Try it and see for yourself.\n\nLearn more about Moisture Bomb The Super Antioxidant Super Moisturizer: http:\/\/www.garnierusa.com\/products\/skincare\/moisture-bomb\/gel-cream-moisturizer\/moisture-bomb-the-antioxidant-super-moisturizer.aspx\n\nLearn more about Moisture Bomb The Antioxidant Super Moisturizer SPF 30: http:\/\/www.garnierusa.com\/products\/skincare\/moisture-bomb\/spf-30-moisturizer\/moisture-bomb-antioxidant-super-moisturizer-spf-30.aspx\n\nLearn more about The Super Hydrating Sheet Mask - Hydrating: http:\/\/www.garnierusa.com\/products\/skincare\/moisture-bomb\/hydrating-sheet-mask\/the-super-hydrating-sheet-mask.aspx\n\nLearn more about Moisture Bomb: http:\/\/www.garnierusa.com\/products\/skincare\/moisture-bomb.aspx\n\nLearn more about Garnier SkinActive: http:\/\/www.garnierusa.com\/products\/skincare.aspx\n\nFind us on Instagram! @garnierusa http:\/\/instagram.com\/garnierusa\nLike us on Facebook! https:\/\/www.facebook.com\/garnierusa\nFollow us on Twitter! @garnierusa https:\/\/twitter.com\/garnierusa",
+    "referenceId": "70334dca014b29d641addc968beb4577",
+    "date_created": "1515708570",
+    "date_modified": "1515716684",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285852",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "New-Moisture-Bomb-Gives-You-Lasting-HYDRATION-I-Garnier-SkinActive-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/thumb-70334dca014b29d641addc968beb4577-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285852\/1c326\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285852\/cc\/vtt\/en_1515716684.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

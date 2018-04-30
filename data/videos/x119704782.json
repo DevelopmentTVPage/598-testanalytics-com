@@ -1,0 +1,101 @@
+{
+    "title": "Pizzarette Classic Mini Pizza Oven",
+    "description": "",
+    "referenceId": "27f303a3b822b19a10ec29b81b98e75b",
+    "date_created": "1506443808",
+    "date_modified": "1516743411",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "how_to_do_video",
+    "user_id": null,
+    "id": "119704782",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Pizzarette-Step-by-Step-Guide-Final-no-url-mp4",
+    "category": "",
+    "duration": "88",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "88",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "88",
+        "prettyDuration": "00:01:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/thumb-27f303a3b822b19a10ec29b81b98e75b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119704782\/cc\/vtt\/en_1516743407.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704782\/c43d3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Julie McLaughlin",
+    "modified_date": "9\/26\/2017",
+    "created_date": "9\/26\/2017"
+}

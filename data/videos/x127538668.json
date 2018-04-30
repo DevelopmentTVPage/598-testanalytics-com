@@ -1,0 +1,101 @@
+{
+    "title": "Crafthouse by Fortessa 5-Piece Mixing Set",
+    "description": "Crafthouse by Fortessa 5-Piece Mixing Set",
+    "referenceId": "14a4316b01f4f5aaf4237f9ca7e806c1",
+    "date_created": "1509648293",
+    "date_modified": "1509988241",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "dining_entertaining",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "requested",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "127538668",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Crafthouse-by-Fortessa-Mixing-Set-Key-Features-1-mp4",
+    "category": "",
+    "duration": "94",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "94",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/thumb-14a4316b01f4f5aaf4237f9ca7e806c1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/127538668\/cc\/vtt\/en_1509988149.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127538668\/1bcac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Sabrina Maldonado",
+    "modified_date": "",
+    "created_date": "11\/2\/2017"
+}
