@@ -1,0 +1,101 @@
+{
+    "title": "Abbyson Living Ashlyn Nursery Swivel Glider Recliner",
+    "description": "",
+    "referenceId": "92c73c9defc856103e2a97155983067a",
+    "date_created": "1512413089",
+    "date_modified": "1516755334",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "furniture",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "132348316",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "AL-AshlynNurserySwivelGliderRecliner-44545598-mp4",
+    "category": "",
+    "duration": "42",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "42",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/thumb-92c73c9defc856103e2a97155983067a-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132348316\/cc\/vtt\/en_1516755174.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "12\/4\/17"
+}

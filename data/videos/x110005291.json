@@ -1,0 +1,97 @@
+{
+    "title": "4moms Origami Stroller Base",
+    "description": "",
+    "referenceId": "46765",
+    "date_created": "1502525276",
+    "date_modified": "1516646854",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110005291",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "4moms-origami-stroller-base",
+    "category": "",
+    "duration": "80",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "80",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/thumb-7a0f6187f7570ece6282ee49bf12ce90-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110005291\/cc\/vtt\/en_1516646842.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005291\/28647\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "3\/6\/2012",
+    "created_date": "3\/5\/2012"
+}

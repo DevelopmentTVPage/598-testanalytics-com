@@ -1,0 +1,97 @@
+{
+    "title": "Progressive Presse Salad Spinner",
+    "description": "",
+    "referenceId": "1787095720",
+    "date_created": "1502523290",
+    "date_modified": "1504334074",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109992494",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "progressive-presse-salad-spinner",
+    "category": "",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "41",
+            "width": 720,
+            "height": 480
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/523425413-014320193.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109992494\/cc\/vtt\/en_1504202620.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992494\/ecc35\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "5\/11\/2017",
+    "created_date": "5\/11\/2017"
+}

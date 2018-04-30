@@ -1,0 +1,101 @@
+{
+    "title": "HALO Mission",
+    "description": "",
+    "referenceId": "ed4d4e02b25ef242ec1eb9244e32dc52",
+    "date_created": "1510600383",
+    "date_modified": "1510681959",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "done",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "about_us_video",
+    "user_id": null,
+    "id": "129253462",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "HALO-Mission-Long-Version-1-mp4",
+    "category": "",
+    "duration": "52",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "52",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1173\/661\/155896445-0411173702.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/129253462\/cc\/vtt\/en_1510605628.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/129253462\/e95e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Julie McLaughlin",
+    "modified_date": "11\/13\/2017",
+    "created_date": "11\/13\/2017"
+}

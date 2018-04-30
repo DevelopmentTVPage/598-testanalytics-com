@@ -1,0 +1,101 @@
+{
+    "title": "OXO Salt & Pepper Shakers",
+    "description": "http:\/\/www.oxo.com\/p-1172-salt-pepper-shaker-set.aspx\n\nWhether you need a dash of pepper or a tablespoon of salt, the OXO Good Grips Salt and Pepper Shakers are the perfect kitchen companions. The hole pattern on top of the Shakers is perfect for adding a light seasoning to any dish, and the pour spout allows for easy dispensing of larger quantities while cooking your favorite recipe. The stainless steel accents and clear body gives the Shaker kitchen-to-table appeal -- great for preparing and serving meals.",
+    "referenceId": "98e44b014608b277f40406577d84d031",
+    "date_created": "1515783987",
+    "date_modified": "1515801566",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390744",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-8-mp4",
+    "category": "",
+    "duration": "53",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "53",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/thumb-98e44b014608b277f40406577d84d031-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390744\/057ff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390744\/cc\/vtt\/en_1515801566.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

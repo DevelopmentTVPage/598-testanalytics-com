@@ -1,0 +1,101 @@
+{
+    "title": "Pampers Swaddlers- Softest Diapers - Available In Size 6",
+    "description": "Pampers Swaddlers Diapers are our softest diaper, with convenient color-changing wetness indicator that gives your baby comfort and protection and available through size 6. More from Pampers: https:\/\/www.youtube.com\/watch?v=xfjAsF5Z0iA&list=PLEO5ZutnaN0OoisKlld9b3OqyIY1o0vbG&index=14\n\nCheck out the rest of the Pampers Swaddlers playlist:\nhttps:\/\/www.youtube.com\/watch?v=ZEYOTkDULD4&index=1&list=PLEO5ZutnaN0MmnjgJLbTv7qEZNwcN6IdE\n\nSubscribe to get notified when new Pampers videos are uploaded!\nhttp:\/\/www.youtube.com\/subscription_center?add_user=pampers\n\nOther Pampers Channels:\nWebsite: http:\/\/www.pampers.com\/\nFacebook: https:\/\/www.facebook.com\/Pampers\nTwitter: https:\/\/twitter.com\/pampers\nGoogle+: https:\/\/plus.google.com\/u\/0\/103592546535723849301\n\nThis video is about Pampers' softest diapers, Swaddlers. Also available in size 6.",
+    "referenceId": "a40b9919af9d4dd1c50472e3223de2dd",
+    "date_created": "1515714296",
+    "date_modified": "1516209083",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285873",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Pampers-Swaddlers-Softest-Diapers-Available-In-Size-6-mp4",
+    "category": "",
+    "duration": "52",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "52",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/364061478-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285873\/cc\/vtt\/en_1516208922.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285873\/316d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

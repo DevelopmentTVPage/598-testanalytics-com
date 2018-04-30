@@ -1,0 +1,97 @@
+{
+    "title": "Cuisinart DCC 1200 Programmable Coffeemaker",
+    "description": "",
+    "referenceId": "10616",
+    "date_created": "1502517466",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109962462",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-dcc-1200-programmable-coffeemaker",
+    "category": "",
+    "duration": "192",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "192",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "192",
+        "prettyDuration": "00:03:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/thumb-169feaacf50c0e7cfcbd6fe126f244fc-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109962462\/cc\/vtt\/en_1504221988.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962462\/c8049\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/13\/2010"
+}

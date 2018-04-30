@@ -1,0 +1,97 @@
+{
+    "title": "Wilton Non-Stick Letters and Numbers Cake Pan Set",
+    "description": "",
+    "referenceId": "34236",
+    "date_created": "1502924372",
+    "date_modified": "1505767819",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180309",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "wilton-non-stick-letters-and-numbers-cake-pan-set",
+    "category": "",
+    "duration": "43",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "43",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/711\/912611638-021280713.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180309\/cc\/vtt\/en_1504805900.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180309\/f51ac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/14\/2011",
+    "created_date": "10\/14\/2011"
+}

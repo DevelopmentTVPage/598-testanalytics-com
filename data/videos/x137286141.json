@@ -1,0 +1,101 @@
+{
+    "title": "Weymouth Chrome ExactTemp\u00ae Shower - Moen Features Spotlight",
+    "description": "Elegant, traditional design details and distinctive finishing touches present a sense of uncommon luxury in the Weymouth collection. Distinctive accents include porcelain inlays that feature Euro\u2013influenced decorative script and signature styling elements to make an extravagant statement in your traditional bath.",
+    "referenceId": "ef56d911c92752a61f7e6ca6d203700a",
+    "date_created": "1515715827",
+    "date_modified": "1516037056",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137286141",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Weymouth-Chrome-ExactTemp-Shower-Moen-Features-Spotlight-mp4",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/thumb-ef56d911c92752a61f7e6ca6d203700a-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286141\/472f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137286141\/cc\/vtt\/en_1516037056.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Burt's Bees Baby Beekeeper Wearable Blankets",
+    "description": "Keep your little one safe and warm with Burt's Bees Baby's Beekeeper Wearable Blanket. Made of soft 100% organic cotton with an allover star print, this cozy blanket lets your baby's hips and legs move freely without the danger of loose blankets.",
+    "referenceId": "8aec3428ac4e147f83b385ebbc40095a",
+    "date_created": "1506439593",
+    "date_modified": "1516743480",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119704770",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Beekeeper-BabyBlanket-mp4",
+    "category": "",
+    "duration": "48",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "48",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/thumb-8aec3428ac4e147f83b385ebbc40095a-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119704770\/cc\/vtt\/en_1516743464.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119704770\/5de24\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/26\/17"
+}

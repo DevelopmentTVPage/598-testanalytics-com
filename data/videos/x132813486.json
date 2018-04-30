@@ -1,0 +1,101 @@
+{
+    "title": "Michael Todd Sonic Blend\/Sonic Makeup Brush - Apply Makeup",
+    "description": "",
+    "referenceId": "f2af09b1b037a265c2da58e616d688b6",
+    "date_created": "1512749345",
+    "date_modified": "1513615236",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "health_and_beauty",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "132813486",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ApplyingMakeup-Sonicblend-VO-mp4",
+    "category": "",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/thumb-f2af09b1b037a265c2da58e616d688b6-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132813486\/cc\/vtt\/en_1513615215.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813486\/f8880\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "12\/8\/17"
+}

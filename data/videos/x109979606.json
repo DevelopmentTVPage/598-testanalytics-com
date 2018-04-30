@@ -1,0 +1,97 @@
+{
+    "title": "Collapsible Laundry Basket",
+    "description": "",
+    "referenceId": "1460840427",
+    "date_created": "1502520709",
+    "date_modified": "1507648850",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109979606",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "collapsible-laundry-basket",
+    "category": "",
+    "duration": "19",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "19",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/thumb-6862c78409e62f23d7b25c7ac2a01246-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109979606\/cc\/vtt\/en_1504209448.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979606\/cb2b1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "ashley.davison",
+    "modified_date": "3\/22\/2017",
+    "created_date": "3\/22\/2017"
+}

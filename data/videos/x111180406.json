@@ -1,0 +1,97 @@
+{
+    "title": "Eclipse Curtain",
+    "description": "",
+    "referenceId": "4216",
+    "date_created": "1502924557",
+    "date_modified": "1516652929",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180406",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "eclipse-curtain",
+    "category": "",
+    "duration": "119",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "119",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "119",
+        "prettyDuration": "00:01:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/thumb-4216-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180406\/cc\/vtt\/en_1516652924.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180406\/d0586\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/19\/2009"
+}

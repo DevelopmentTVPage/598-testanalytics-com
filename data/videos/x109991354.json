@@ -1,0 +1,97 @@
+{
+    "title": "Angry Birds Bath Ensemble",
+    "description": "",
+    "referenceId": "1736349339",
+    "date_created": "1502522821",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109991354",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "angry-birds-bath-ensemble",
+    "category": "",
+    "duration": "29",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "29",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/thumb-c347906f5e0f4897734274243d9d4666-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991354\/5e9dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109991354\/cc\/vtt\/en_1504213199.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "5\/28\/2013",
+    "created_date": "5\/28\/2013"
+}

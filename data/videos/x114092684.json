@@ -1,0 +1,99 @@
+{
+    "title": "Spiralized Zucchini Noodles with Hoisin Tufu Recipe",
+    "description": "",
+    "referenceId": "33c1cc72264a204076388a421a7b92d6",
+    "date_created": "1503707215",
+    "date_modified": "1505949279",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "114092684",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Spiralized-Zucchini-Noodles-with-Hoisin-Tufu-Recipe-mp4",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "72",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/114092684\/9854b\/thumb-33c1cc72264a204076388a421a7b92d6-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/114092684\/cc\/vtt\/en_1505949260.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114092684\/9854b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114092684\/9854b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114092684\/9854b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114092684\/9854b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114092684\/9854b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Rock-It 2.0 Portable Vibration Speaker System",
+    "description": "",
+    "referenceId": "34634",
+    "date_created": "1502924394",
+    "date_modified": "1516653099",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180315",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "rock-it-2-0-portable-vibration-speaker-system",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "70",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/thumb-34634-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180315\/cc\/vtt\/en_1516653094.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180315\/4c00c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/27\/2011",
+    "created_date": "10\/26\/2011"
+}

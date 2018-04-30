@@ -1,0 +1,101 @@
+{
+    "title": "Fridababy FeverFrida The Thermonitor",
+    "description": "",
+    "referenceId": "bd7f7283da9d2ac16cb4490ac12f2a4a",
+    "date_created": "1516373795",
+    "date_modified": "1516375542",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "138359562",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "FeverFrida-45455988-VO-mp4",
+    "category": "",
+    "duration": "105",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "105",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "105",
+        "prettyDuration": "00:01:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/thumb-bd7f7283da9d2ac16cb4490ac12f2a4a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/138359562\/cc\/vtt\/en_1516374675.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138359562\/3352e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Manually added SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/19\/18"
+}

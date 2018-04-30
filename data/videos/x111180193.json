@@ -1,0 +1,97 @@
+{
+    "title": "Beatles Abbey Road 3D Wall Art",
+    "description": "",
+    "referenceId": "27984",
+    "date_created": "1502924081",
+    "date_modified": "1504809674",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180193",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "beatles-abbey-road-3d-wall-art",
+    "category": "",
+    "duration": "12",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "12",
+            "width": 640,
+            "height": 416
+        },
+        "mediaDuration": "12",
+        "prettyDuration": "00:00:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/thumb-27984-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 416
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 416
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 416
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 554,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180193\/60480\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 208
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180193\/cc\/vtt\/en_1504809674.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "n\/a",
+    "modified_date": "8\/8\/2013",
+    "created_date": "7\/1\/2011"
+}

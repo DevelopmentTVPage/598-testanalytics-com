@@ -1,0 +1,89 @@
+{
+    "title": "Dreamtex My Little Nest 2-Pack Waterproof Tencel&reg; Pebbletex Crib Mattress Pad Covers",
+    "description": "",
+    "referenceId": "1511235399",
+    "date_created": "1502521074",
+    "date_modified": "1504299471",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109980738",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "dreamtex-my-little-nest-2-pack-waterproof-tencel-pebbletex-crib-mattress-pad-covers",
+    "category": "",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "83",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/thumb-6ee43ae08516d88a9a7f197330c01f6f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980738\/d98df\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "Douglas.French",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

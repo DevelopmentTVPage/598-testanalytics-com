@@ -1,0 +1,101 @@
+{
+    "title": "Convenient Smokeless Indoor Grilling",
+    "description": "",
+    "referenceId": "aba1a7bc6fa52bdba61516aa865e01d1",
+    "date_created": "1503707137",
+    "date_modified": "1505841694",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "114088626",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Convenient-Smokeless-Indoor-Grilling-mp4",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "72",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/thumb-aba1a7bc6fa52bdba61516aa865e01d1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/114088626\/cc\/vtt\/en_1505841642.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114088626\/bac37\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

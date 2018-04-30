@@ -1,0 +1,97 @@
+{
+    "title": "EuroPro Shark Navigator V2",
+    "description": "",
+    "referenceId": "4865",
+    "date_created": "1502924627",
+    "date_modified": "1516652295",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180450",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "europro-shark-navigator-v2",
+    "category": "",
+    "duration": "97",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "97",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/thumb-4865-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180450\/e83dd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180450\/cc\/vtt\/en_1516652295.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "3\/16\/2013",
+    "created_date": "8\/26\/2009"
+}

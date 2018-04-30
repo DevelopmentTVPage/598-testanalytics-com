@@ -1,0 +1,101 @@
+{
+    "title": "Nautica at Home",
+    "description": "",
+    "referenceId": "29ea80d078ce664efee7b9666f2f95e1",
+    "date_created": "1504595019",
+    "date_modified": "1509147394",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "116033871",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-23-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1279\/710\/385399933-021279712.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033871\/4ce6f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/116033871\/cc\/vtt\/en_1509147394.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "ashley.davison",
+    "modified_date": "10\/29\/2014",
+    "created_date": ""
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Therapedic GelMAX Contour Pillow",
+    "description": "Enjoy a peaceful night's sleep with the Therapedic MemoryLOFT gel-Infused Pillow. Featuring cooling gel-infused iCOOL technology and pressure-relieving memory foam, this pillow is designed to keep you cool and comfortable all night long.",
+    "referenceId": "4261a01db22fba44fd59d38e83cc51cc",
+    "date_created": "1506351180",
+    "date_modified": "1507133801",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119657071",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "GelMAXPillow-61660571-mp4",
+    "category": "",
+    "duration": "37",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "37",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/thumb-4261a01db22fba44fd59d38e83cc51cc-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119657071\/cc\/vtt\/en_1507133763.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Needs closed captions added. Requested TVPage to generate SRT file.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/25\/17"
+}

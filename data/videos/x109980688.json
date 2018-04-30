@@ -1,0 +1,97 @@
+{
+    "title": "SWASH&trade; Express Clothing Care System",
+    "description": "",
+    "referenceId": "1494374587",
+    "date_created": "1502520925",
+    "date_modified": "1504811198",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109980688",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "swash-express-clothing-care-system",
+    "category": "",
+    "duration": "143",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "143",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "143",
+        "prettyDuration": "00:02:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/thumb-9b8d813118b0ecd7befc75b9c5f29689-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980688\/346b1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109980688\/cc\/vtt\/en_1504811198.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "douglas.french",
+    "modified_date": "9\/4\/2014",
+    "created_date": "9\/4\/2014"
+}

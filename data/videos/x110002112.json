@@ -1,0 +1,97 @@
+{
+    "title": "Boppy Play Gym - Flying Circus",
+    "description": "",
+    "referenceId": "24737",
+    "date_created": "1502524827",
+    "date_modified": "1516757914",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110002112",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "boppy-play-gym-flying-circus",
+    "category": "",
+    "duration": "151",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "151",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "151",
+        "prettyDuration": "00:02:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/thumb-27afd6c670c6b2d758c5865ba2e0a8d7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002112\/45521\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110002112\/cc\/vtt\/en_1516757914.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "4\/1\/2011"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "OXO Tot On-the-Go Bottle Brush",
+    "description": "http:\/\/www.oxo.com\/p-1252-on-the-go-bottle-brush-with-storage-case.aspx\n\nThe OXO Tot On-the-Go Bottle Brush with Storage Case takes the fuss out of cleaning while away from home.  Perfect for a vacation or a trip to grandma\u2019s house - just slip this compact Bottle Brush into a handbag or diaper bag. The Brush features soft and firm bristles for gentle cleaning or serious scrubbing and has a soft handle that is non-slip, even when wet. Tucked inside the handle is a silicone detail cleaner that cleans tight spots like bottle nipples and breast pump parts more effectively than bristles can. The Storage Case is ventilated, so there is no need to wait for the brush to dry completely before tossing it back in the diaper bag!",
+    "referenceId": "0081b79f7ec028c0d5c593ba4cdcaedf",
+    "date_created": "1515783975",
+    "date_modified": "1515801538",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390739",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-3-mp4",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/thumb-0081b79f7ec028c0d5c593ba4cdcaedf-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390739\/9deb5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390739\/cc\/vtt\/en_1515801538.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

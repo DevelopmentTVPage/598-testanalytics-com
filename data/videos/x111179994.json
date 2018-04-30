@@ -1,0 +1,97 @@
+{
+    "title": "Fagor Portable Induction Cooktop",
+    "description": "",
+    "referenceId": "16063",
+    "date_created": "1502923620",
+    "date_modified": "1504813554",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179994",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "fagor-portable-induction-cooktop",
+    "category": "",
+    "duration": "177",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "177",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "177",
+        "prettyDuration": "00:02:57",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/thumb-16063-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179994\/cc\/vtt\/en_1504813554.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179994\/1aa53\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "n\/a",
+    "modified_date": "12\/7\/2011",
+    "created_date": "9\/14\/2010"
+}

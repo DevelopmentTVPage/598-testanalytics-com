@@ -1,0 +1,97 @@
+{
+    "title": "Madrigal Coverlet",
+    "description": "",
+    "referenceId": "1350774581",
+    "date_created": "1502519817",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109973296",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "madrigal-coverlet",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "70",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/thumb-7aeb9f6d0cc6d921847fc8c46b261e42-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973296\/33b84\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109973296\/cc\/vtt\/en_1504224146.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "10\/30\/2013",
+    "created_date": "10\/30\/2013"
+}

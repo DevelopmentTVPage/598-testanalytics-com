@@ -1,0 +1,97 @@
+{
+    "title": "keurig 500 varieties",
+    "description": "",
+    "referenceId": "1512416984",
+    "date_created": "1502521088",
+    "date_modified": "1504325308",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109980743",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "keurig-500-varieties",
+    "category": "",
+    "duration": "31",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "31",
+            "width": 800,
+            "height": 448
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/290641527-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109980743\/cc\/vtt\/en_1504291829.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 448
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 448
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 448
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 358
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980743\/5df02\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "7\/31\/2015",
+    "created_date": "7\/31\/2015"
+}

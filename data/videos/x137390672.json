@@ -1,0 +1,99 @@
+{
+    "title": "French Door Manual Oven Unboxing - Oster\u00ae",
+    "description": "Turn your ordinary kitchen into a chef\u2019s kitchen with the Oster\u00ae Manual French Door Oven with Convection cooking technology.\n\nFor over 70 years and counting we\u2019ve made 200 million Oster\u00ae blenders, and along the way, we became the most recognized name in blending across the U.S. Our products are durable and versatile, you can rely on them to help you Make it Fresh\u2122 time and time again. You have the assurance of quality and performance with each and every blending task, to prepare the freshest, most delicious, most satisfying foods and beverages for you and your family. \n\nFor more great content, visit the Oster\u00ae website: www.oster.com\n\nJoin Us On Social:\nLike Oster\u00ae on Facebook: https:\/\/www.facebook.com\/OsterKitchen\/\nFollow Oster\u00ae on Instagram: http:\/\/www.instagram.com\/osterkitchen\/\nFollow Oster\u00ae on Pinterest: http:\/\/www.pinterest.com\/osterkitchen",
+    "referenceId": "e65672e39accc68d18c9df976166d892",
+    "date_created": "1515778842",
+    "date_modified": "1515779152",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390672",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "French-Door-Manual-Oven-Unboxing-Oster-mp4",
+    "category": "",
+    "duration": "135",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "135",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "135",
+        "prettyDuration": "00:02:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390672\/e041c\/thumb-e65672e39accc68d18c9df976166d892-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390672\/cc\/vtt\/en_1515779124.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390672\/e041c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390672\/e041c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390672\/e041c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390672\/e041c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390672\/e041c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Door Genie Sliding Door Closer",
+    "description": "",
+    "referenceId": "2b067c8b7c2ef4b9200e8e1913b464b2",
+    "date_created": "1509715821",
+    "date_modified": "1510074242",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "127911337",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "DoorGenie-63072792-63072808-mp4",
+    "category": "",
+    "duration": "47",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "47",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/thumb-2b067c8b7c2ef4b9200e8e1913b464b2-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/127911337\/cc\/vtt\/en_1510074230.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/127911337\/274fe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "11\/3\/17"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "bbb-wamsutta bed greekrevised.mov",
+    "description": "",
+    "referenceId": "1094567297",
+    "date_created": "1502517729",
+    "date_modified": "1516296108",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109963551",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "bbb-wamsutta-bed-greekrevised-mov",
+    "category": "",
+    "duration": "86",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "86",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/thumb-07ad100a6461c097c1d57ff641e8d929-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109963551\/cc\/vtt\/en_1516296081.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963551\/e1a42\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "mickey",
+    "modified_date": "11\/11\/2013",
+    "created_date": ""
+}

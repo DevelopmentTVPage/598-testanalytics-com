@@ -1,0 +1,93 @@
+{
+    "title": "Hover Cover",
+    "description": "Cook food in your microwave without the mess when you use the Hover Cover. This innovative cover works as a magnetic splatter guard that features a built-in steam vent that helps heat food evenly and attaches to the roof of your microwave when not in use.",
+    "referenceId": "85ce5f8d7e950d12b03617c30eed288f",
+    "date_created": "1505758249",
+    "date_modified": "1505758858",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117978361",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "HOVERCOVER-SUBTITLED-61593268-mp4",
+    "category": "",
+    "duration": "59",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "59",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/thumb-85ce5f8d7e950d12b03617c30eed288f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117978361\/96ace\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has subtitles.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/18\/17"
+}

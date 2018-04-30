@@ -1,0 +1,95 @@
+{
+    "title": "Breville Deep Fryer BDF600XL",
+    "description": "",
+    "referenceId": "27328",
+    "date_created": "1502924040",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180178",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-deep-fryer-bdf600xl",
+    "category": "",
+    "duration": "180",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "180",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "180",
+        "prettyDuration": "00:03:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/thumb-27328-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180178\/0b3b1\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180178\/cc\/vtt\/en_1504112245.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "5\/6\/2011"
+}

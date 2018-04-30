@@ -1,0 +1,101 @@
+{
+    "title": "Learn More About Our Illuminating Blend- Argan Oil & Camellia Extracts - Garnier Whole Blends",
+    "description": "Learn how we source and blend hand pressed Argan Oil and Camellia extracts in our Illuminating Hair Care to indulge your hair with luminous shine.\n         \nLearn more about Illuminating Hair Care with Argan and Camellia Oils Extracts: http:\/\/www.garnierusa.com\/products\/haircare-whole-blends\/argan-camellia-illuminating.aspx\n\nLearn more about Whole Blends: http:\/\/www.garnierusa.com\/products\/haircare-whole-blends.aspx\n\nLearn more about hair care: http:\/\/www.garnierusa.com\/products\/hair-care.aspx\nFind us on Instagram! @garnierusa http:\/\/instagram.com\/garnierusa\nLike us on Facebook! https:\/\/www.facebook.com\/garnierusa\nFollow us on Twitter! @garnierusa https:\/\/twitter.com\/garnierusa",
+    "referenceId": "aa0b21dd77dcb57b1b82e3e7a80d1775",
+    "date_created": "1515708538",
+    "date_modified": "1515716871",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285844",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Learn-More-About-Our-Illuminating-Blend-Argan-Oil-Camellia-Extracts-Garnier-Whole-Blends-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/thumb-aa0b21dd77dcb57b1b82e3e7a80d1775-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285844\/cc\/vtt\/en_1515709631.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285844\/61716\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

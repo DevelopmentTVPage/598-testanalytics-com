@@ -1,0 +1,93 @@
+{
+    "title": "DKNY",
+    "description": "",
+    "referenceId": "db03b256c2041c04a0765bb089d6cc16",
+    "date_created": "1504588615",
+    "date_modified": "1504588723",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "116030538",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-9-mp4",
+    "category": "",
+    "duration": "20",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "20",
+            "width": 1280,
+            "height": 800
+        },
+        "mediaDuration": "20",
+        "prettyDuration": "00:00:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/thumb-db03b256c2041c04a0765bb089d6cc16-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 800
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1152,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 768,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 200
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116030538\/dd547\/media.m3u8"
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "ashley.davison",
+    "modified_date": "10\/16\/2015",
+    "created_date": ""
+}

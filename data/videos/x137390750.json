@@ -1,0 +1,101 @@
+{
+    "title": "KidKraft Aero City Train Set & Table",
+    "description": "Let\u2019s play pretend! The Aero City Train Set & Table puts a busy city at your child\u2019s fingertips. It\u2019s so much fun to push vehicles up and down the track, fly the airplane over the city and help the fire department put out dangerous fires. Features include:\n*Combines a train table with a 85-piece train set\n*Long, winding track that can be put together in an endless number of ways \n*Deluxe molded mountain and a tall hospital with helipad\n* Roundabout turntable piece moves 360\u00b0 so vehicles can change directions\n*Police station and fire station with molded plastic roofs\n*Three train cars, a fire truck, a police car, a helicopter, a bulldozer, and an airplane\n*Smiling townspeople, trees, trees and construction cones\n*Table keeps play time off the floor and closer to eye level\n*Smart, sturdy construction\n*Four plastic storage bins\n*Packaged with detailed, step-by-step assembly instructions\n*Made of composite wood materials with molded plastic\n*Train track is compatible with all KidKraft, Brio\u00ae and Thomas & Friends\u2122 Wooden Railway vehicles and play sets",
+    "referenceId": "b84169e9ac391b981ba840f69f7ebbe0",
+    "date_created": "1515785502",
+    "date_modified": "1515786266",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390750",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KidKraft-Aero-City-Train-Set-Table-mp4",
+    "category": "",
+    "duration": "64",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "64",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/thumb-b84169e9ac391b981ba840f69f7ebbe0-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390750\/3af3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390750\/cc\/vtt\/en_1515786266.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

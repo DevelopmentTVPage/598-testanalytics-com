@@ -1,0 +1,101 @@
+{
+    "title": "Black + Decker Citrus Juicer",
+    "description": "Enjoy fresh-squeezed citrus juice\u2026 right when you want it! Get all the juice you need without the seeds from the self-reversing cone and strainer.\n\nClear-View Juice Container\nEasy-to-Read Measurements\nEasy-Pour Spout\nStorage Cover\nCord Storage\n2 Self-Reversing Cones\nAdjustable Pulp Control\n\nLink to Buy:\nhttp:\/\/www.blackanddeckerappliances.com\/products\/blenders-and-juicers\/citrus-juicers\/citrus-juicer-cj630-2.aspx",
+    "referenceId": "a077797c5f37a78db2eb650e3a89a784",
+    "date_created": "1515777686",
+    "date_modified": "1515800793",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390651",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-2-mp4",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/638\/359\/278211492-061638420.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390651\/9fb19\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390651\/cc\/vtt\/en_1515800793.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

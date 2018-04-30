@@ -1,0 +1,101 @@
+{
+    "title": "How To Back Carry in Ergobaby Carrier",
+    "description": "This Ergobaby video is here to tell you all about how to Back Carry with any Ergobaby carrier. All Ergobaby carriers have 3 Ways To Carry: Front, Hip, and Back. The Back Carry isn't scary - try this video instruction guide and soon you will be doing the Back Carry all by yourself!\n\nPerformance Baby Carrier: https:\/\/store.ergobaby.com\/baby-carrier\/cool-air-mesh-breathable\/charcoal-black\n\nShop Ergobaby: https:\/\/ergobaby.com\nInstagram: https:\/\/www.instagram.com\/ergobaby\nFacebook: https:\/\/www.facebook.com\/ergobaby\nPinterest: https:\/\/www.pinterest.com\/ergobaby\nTwitter: https:\/\/twitter.com\/ergobaby",
+    "referenceId": "4981df8d7677dda887ac1cc3fea59d12",
+    "date_created": "1515780392",
+    "date_modified": "1515781392",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390711",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "How-To-Back-Carry-in-Ergobaby-Carrier-mp4",
+    "category": "",
+    "duration": "223",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "223",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "223",
+        "prettyDuration": "00:03:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/thumb-4981df8d7677dda887ac1cc3fea59d12-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390711\/834a1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390711\/cc\/vtt\/en_1515781392.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

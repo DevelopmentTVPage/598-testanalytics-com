@@ -1,0 +1,101 @@
+{
+    "title": "Peppermint Palace Gingerbread House",
+    "description": "Instead of the typical gingerbread house, this year create a luxurious peppermint palace to display.",
+    "referenceId": "26cb58ebfc4b89afb816b279111ac77f",
+    "date_created": "1512399339",
+    "date_modified": "1516755071",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "in_house",
+    "video_classification1": "how_to_do_video",
+    "user_id": null,
+    "id": "132348268",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "PeppermintWhite-mp4",
+    "category": "",
+    "duration": "62",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "62",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/884492630-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132348268\/986a1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132348268\/cc\/vtt\/en_1516755071.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Melissa Cohen",
+    "modified_date": "",
+    "created_date": "12\/4\/17"
+}

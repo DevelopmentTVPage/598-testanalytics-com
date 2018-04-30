@@ -1,0 +1,97 @@
+{
+    "title": "Hunter Large Room Total Air Sanitizer",
+    "description": "",
+    "referenceId": "47407",
+    "date_created": "1502525445",
+    "date_modified": "1516985609",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110005389",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hunter-large-room-total-air-sanitizer",
+    "category": "",
+    "duration": "136",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "136",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/thumb-bb88a5573083f840d90ef612bef18074-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110005389\/cc\/vtt\/en_1516985601.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005389\/b235c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": ""
+}

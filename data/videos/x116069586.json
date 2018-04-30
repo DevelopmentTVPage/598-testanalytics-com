@@ -1,0 +1,101 @@
+{
+    "title": "Kyle Schueneman Bedding Collection",
+    "description": "",
+    "referenceId": "681fd4a91ed8d280f0312d99ce5620fc",
+    "date_created": "1504639965",
+    "date_modified": "1516738085",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "116069586",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-45-mp4",
+    "category": "",
+    "duration": "67",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "67",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/thumb-681fd4a91ed8d280f0312d99ce5620fc-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/116069586\/cc\/vtt\/en_1516738081.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116069586\/6542a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "mickey",
+    "modified_date": "8\/12\/2015",
+    "created_date": ""
+}

@@ -1,0 +1,101 @@
+{
+    "title": "ED buybuyBaby Collection Video",
+    "description": "",
+    "referenceId": "d856978fe3d1f77c918cdad77778dafe",
+    "date_created": "1511198579",
+    "date_modified": "1511804085",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "custom_video",
+    "user_id": null,
+    "id": "130145615",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "BBB-ED-BabyVideo-VO-mp4",
+    "category": "",
+    "duration": "16",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "16",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/thumb-d856978fe3d1f77c918cdad77778dafe-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/130145615\/cc\/vtt\/en_1511804056.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145615\/894b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video is for ED brand landing page. Requested SRT file from TVPage for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "11\/20\/17"
+}

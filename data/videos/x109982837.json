@@ -1,0 +1,97 @@
+{
+    "title": "Graco&reg; Modes Sport&trade;Click Connect&trade;Travel System",
+    "description": "",
+    "referenceId": "1546956863",
+    "date_created": "1502521376",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109982837",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "graco-modes-sport-click-connect-travel-system",
+    "category": "",
+    "duration": "196",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "196",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "196",
+        "prettyDuration": "00:03:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/thumb-c2ab0be7a5d7a3aa521019819c327f9d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982837\/2e188\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109982837\/cc\/vtt\/en_1504207209.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Nicolette.Binder",
+    "modified_date": "8\/21\/2014",
+    "created_date": "8\/21\/2014"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Vitamix A2300 Ascent Series Blender",
+    "description": "From healthy smoothies, to savory soups, the A2300 Ascent Series Blender is your go-to kitchen tool for all mixing and blending tasks. Laser-cut blades chop through the toughest ingredients, while variable speed controls ensure the perfect texture.",
+    "referenceId": "228a07db63c55fd7443eea1f7ef2e7f7",
+    "date_created": "1505480923",
+    "date_modified": "1506002672",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bbb_canada",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117668035",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Vitamix-AscentSeries-2300-mp4",
+    "category": "",
+    "duration": "63",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "63",
+            "width": 1920,
+            "height": 960
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/thumb-228a07db63c55fd7443eea1f7ef2e7f7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 960
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 426
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668035\/f391b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 160
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117668035\/cc\/vtt\/en_1506002670.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Have added SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/15\/17"
+}

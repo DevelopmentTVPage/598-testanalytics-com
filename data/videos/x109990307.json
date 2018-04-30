@@ -1,0 +1,97 @@
+{
+    "title": "Crane Personal Cool Mist Humidifier",
+    "description": "",
+    "referenceId": "1718425246",
+    "date_created": "1502522684",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109990307",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "crane-personal-cool-mist-humidifier",
+    "category": "",
+    "duration": "145",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "145",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "145",
+        "prettyDuration": "00:02:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/thumb-6ad78365e58d34b2bf0999a7435787d3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990307\/8b159\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109990307\/cc\/vtt\/en_1504198474.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

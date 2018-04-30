@@ -1,0 +1,97 @@
+{
+    "title": "Baby's Journey&trade;Comfy Cozy Tub &amp; Towel Warmer in Frog &amp; Lily Pad",
+    "description": "",
+    "referenceId": "1751496965",
+    "date_created": "1502523005",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109992395",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "baby-s-journey-comfy-cozy-tub-towel-warmer-in-frog-lily-pad",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "70",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/thumb-a1ae4d729fba6ce86f14e7e4fd484e7e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992395\/b96cb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109992395\/cc\/vtt\/en_1504136616.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "loisg",
+    "modified_date": "9\/17\/2013",
+    "created_date": "9\/17\/2013"
+}

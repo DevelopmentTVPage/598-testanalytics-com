@@ -1,0 +1,89 @@
+{
+    "title": "An Elf's Story",
+    "description": "",
+    "referenceId": "1011293757",
+    "date_created": "1502517048",
+    "date_modified": "1504268256",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109960324",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "an-elf-s-story",
+    "category": "",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "30",
+            "width": 852,
+            "height": 480
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/923690606-031320210.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960324\/9d5af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "FTP",
+    "modified_date": "10\/29\/2013",
+    "created_date": "10\/29\/2013"
+}

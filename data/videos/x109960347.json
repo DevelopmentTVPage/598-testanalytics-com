@@ -1,0 +1,97 @@
+{
+    "title": "Baby Jogger&reg; City Go&trade;Infant Car Seat",
+    "description": "",
+    "referenceId": "1021685210",
+    "date_created": "1502517191",
+    "date_modified": "1504804047",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109960347",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "baby-jogger-city-go-infant-car-seat",
+    "category": "",
+    "duration": "56",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "56",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/thumb-f72e6ab9b4d3c8a018592d53e9807d2e-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960347\/59418\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109960347\/cc\/vtt\/en_1504804047.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC file provided corrupt",
+    "uploader": "Douglas.French",
+    "modified_date": "8\/18\/2016",
+    "created_date": "8\/18\/2016"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Zojirushi Home Bakery Supreme Breadmaker Line New",
+    "description": "",
+    "referenceId": "14327",
+    "date_created": "1502520490",
+    "date_modified": "1516820194",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109979534",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "zojirushi-home-bakery-supreme-breadmaker-line-new",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "87",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/thumb-342bfe7f0fe4bc287f9a8baa6188a965-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109979534\/cc\/vtt\/en_1516820184.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109979534\/b166a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "7\/22\/2010"
+}

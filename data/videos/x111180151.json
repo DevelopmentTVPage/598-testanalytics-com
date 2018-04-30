@@ -1,0 +1,95 @@
+{
+    "title": "Hamilton Beach 6 Quart Programmable Slow Cooker",
+    "description": "",
+    "referenceId": "24571",
+    "date_created": "1502923984",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180151",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hamilton-beach-6-quart-programmable-slow-cooker",
+    "category": "",
+    "duration": "91",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "91",
+            "width": 480,
+            "height": 270
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/thumb-24571-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180151\/4afeb\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180151\/cc\/vtt\/en_1504114204.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "3\/29\/2011"
+}

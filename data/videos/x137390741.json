@@ -1,0 +1,101 @@
+{
+    "title": "OXO Grape & Tomato Cutter",
+    "description": "For additional information on the featured product please visit: http:\/\/www.surlatable.com\/product\/PRO-1669522\/OXO+Grape+and+Tomato+Cutter\n\nPerfect for salsa, fruit salad, sangria and more, this innovative gadget slices grapes, cherry tomatoes or other small, soft fruits into ready-to-use quarters with a simple, one-handed motion. Ultra-sharp serrated blades easily slice through soft fruit skins, while the curved finger rests provide comfort even during prolonged use. Cutter disassembles for easy cleaning and snaps onto the included case for safe storage. \n\nFor more about Sur La Table, visit www.surlatable.com\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/user\/SurLaTableCorp\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/surlatable\/\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/surlatable\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/Sur_La_Table",
+    "referenceId": "fd359df5bbbeef142b627278a3836e3f",
+    "date_created": "1515783979",
+    "date_modified": "1515801549",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390741",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-5-mp4",
+    "category": "",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "83",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/thumb-fd359df5bbbeef142b627278a3836e3f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390741\/a15a8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390741\/cc\/vtt\/en_1515801549.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

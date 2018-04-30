@@ -1,0 +1,101 @@
+{
+    "title": "Crafthouse by Fortessa Glass Smoke Box",
+    "description": "This unique tool can infuse your favorite cocktails with aromatic smoke.",
+    "referenceId": "093ec4b781e701b0ca7ef9039b3da7fd",
+    "date_created": "1508425386",
+    "date_modified": "1508947859",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "dining_entertaining",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "requested",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "123658311",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Crafthouse-by-Fortessa-The-Smoking-Box-Key-Features-1-mp4",
+    "category": "",
+    "duration": "107",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "107",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/thumb-093ec4b781e701b0ca7ef9039b3da7fd-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123658311\/cc\/vtt\/en_1508947837.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658311\/af581\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Sabrina Maldonado",
+    "modified_date": "",
+    "created_date": "10\/19\/2017"
+}

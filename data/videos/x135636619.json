@@ -1,0 +1,101 @@
+{
+    "title": "SpaRoom Aromafier Portable Fragrance Diffuser",
+    "description": "",
+    "referenceId": "577ec0adc2fbb9d1043db42d5127490c",
+    "date_created": "1514565417",
+    "date_modified": "1516641133",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "home_decor",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "135636619",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SpaRoom-Aromafier-3280092-mp4",
+    "category": "",
+    "duration": "40",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "40",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/403\/226\/633175527-311434227.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/135636619\/cc\/vtt\/en_1516641119.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/135636619\/4c6e0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Natalia Santos",
+    "modified_date": "",
+    "created_date": "12\/29\/2017"
+}

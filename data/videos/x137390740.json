@@ -1,0 +1,101 @@
+{
+    "title": "How to Replace the Head on the OXO Soap Dispensing Dish Brush, Scrub, or Sponge",
+    "description": "http:\/\/www.oxo.com\/p-290-soap-dispensing-dish-brush.aspx\n\nOXO offers convenient refills for when it\u2019s time to replace the brush on your Good Grips Soap Dispensing Dish Brush. Just push up on the tab to eject and attach the new Brush head by simply sliding it on. Refill Brush, Sponge and Scrub heads come in a pack of two for convenience and include replacement instructions.\n\nhttp:\/\/www.oxo.com\/p-285-soap-dispensing-dish-brush-refills.aspx",
+    "referenceId": "5017e93669084fa709afe9485db0eec0",
+    "date_created": "1515783976",
+    "date_modified": "1515801544",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390740",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-4-mp4",
+    "category": "",
+    "duration": "25",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "25",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/thumb-5017e93669084fa709afe9485db0eec0-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390740\/72355\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390740\/cc\/vtt\/en_1515801544.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

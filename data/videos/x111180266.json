@@ -1,0 +1,97 @@
+{
+    "title": "SodaStream Fizz Home Soda Maker",
+    "description": "",
+    "referenceId": "31960",
+    "date_created": "1502924230",
+    "date_modified": "1504806023",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180266",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sodastream-fizz-home-soda-maker",
+    "category": "",
+    "duration": "132",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "132",
+            "width": 852,
+            "height": 480
+        },
+        "mediaDuration": "132",
+        "prettyDuration": "00:02:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/thumb-31960-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180266\/dbd16\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180266\/cc\/vtt\/en_1504806023.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "n\/a",
+    "modified_date": "9\/8\/2011",
+    "created_date": "8\/31\/2011"
+}

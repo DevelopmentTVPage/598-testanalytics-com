@@ -1,0 +1,101 @@
+{
+    "title": "0186506 Music in the Jungle Activity Gym",
+    "description": "Make music in the jungle with this adorable activity gym! With 4 different melodies for baby to groove to, this gym will have your baby grooving while stimulating their auditory senses. There are 5 detachable hanging toys that can be linked to most prams, strollers or capsules for an added way to play! \nGreat for encouraging tummy time, sitting play or lay and play, this gym is versatile and grows with your baby. Simply detach the gym arms to create a soft, safe place for older babies to sit and play, or keep gym arms on for baby to practice reaching and grabbing for the hanging toys.\n The plush musical elephant plays music composed privately for Playgro and has a ring teether for soothing sore gums. The horse teether is a chewy, clip clop sounding hanging toy that is perfect for those teething babies. \nThe mirror is great for helping baby learn reflections and the leaf hanging toy has coloured rattling balls inside for stimulating auditory development.",
+    "referenceId": "346b60609191fc4f04d692c1e6806f23",
+    "date_created": "1515718473",
+    "date_modified": "1516411255",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137334461",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "0186506-Music-in-the-Jungle-Activity-Gym-mp4",
+    "category": "",
+    "duration": "47",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "47",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/413478914-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334461\/ea7b0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137334461\/cc\/vtt\/en_1516411255.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

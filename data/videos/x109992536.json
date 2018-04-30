@@ -1,0 +1,97 @@
+{
+    "title": "SKIP*HOP&reg; Explore &amp; More Amazing Arch Activity Gym",
+    "description": "",
+    "referenceId": "1801675353",
+    "date_created": "1502523393",
+    "date_modified": "1516736569",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109992536",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "skip-hop-explore-more-amazing-arch-activity-gym",
+    "category": "",
+    "duration": "64",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "64",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/thumb-11b391bc3e2509624cd0125f3d8c6a2c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992536\/98cbc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109992536\/cc\/vtt\/en_1516736569.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "2\/24\/2016",
+    "created_date": "2\/24\/2016"
+}

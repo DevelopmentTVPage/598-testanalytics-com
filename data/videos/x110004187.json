@@ -1,0 +1,97 @@
+{
+    "title": "The Coffee Bean and Tea Leaf CBTL Single Serve Beverage Machine",
+    "description": "",
+    "referenceId": "37590",
+    "date_created": "1502525011",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004187",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "the-coffee-bean-and-tea-leaf-cbtl-single-serve-beverage-machine",
+    "category": "",
+    "duration": "120",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "120",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/thumb-18f9278610fa73aebd898888e879e3fa-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004187\/fac72\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004187\/cc\/vtt\/en_1504119825.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "11\/22\/2011",
+    "created_date": "11\/21\/2011"
+}

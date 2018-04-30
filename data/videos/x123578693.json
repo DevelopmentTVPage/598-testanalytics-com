@@ -1,0 +1,101 @@
+{
+    "title": "Electric Deep Fried Turkey Perfection",
+    "description": "",
+    "referenceId": "4220a3c48ee50de4030c11aea17edb97",
+    "date_created": "1508337973",
+    "date_modified": "1508423097",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Food_Preparation",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "recipe_video",
+    "user_id": null,
+    "id": "123578693",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Electric-Deep-Fried-Turkey-Perfection-mp4",
+    "category": "",
+    "duration": "101",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "101",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "101",
+        "prettyDuration": "00:01:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/thumb-4220a3c48ee50de4030c11aea17edb97-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123578693\/cc\/vtt\/en_1508423040.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123578693\/3ae53\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "SRT File added by Cory",
+    "uploader": "Cory",
+    "modified_date": "",
+    "created_date": "10\/18\/17"
+}

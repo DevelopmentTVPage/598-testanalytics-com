@@ -1,0 +1,101 @@
+{
+    "title": "Fantasy Area Rug Collection from Nourison",
+    "description": "These beautiful transitional rugs are meticulously crafted with high-density, hand-hooked yarns and hand carved for additional texture and dimension. Enchanting designs and colorful hues come together to create a magical ambiance for any interior. This collection is truly a treat for the senses.",
+    "referenceId": "4c12c696bbe9443bcb3a9433d7880503",
+    "date_created": "1515783634",
+    "date_modified": "1515784293",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390730",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Fantasy-Area-Rug-Collection-from-Nourison-mp4",
+    "category": "",
+    "duration": "133",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "133",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "133",
+        "prettyDuration": "00:02:13",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/thumb-4c12c696bbe9443bcb3a9433d7880503-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390730\/bffcd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390730\/cc\/vtt\/en_1515784293.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

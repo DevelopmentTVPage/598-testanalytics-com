@@ -1,0 +1,101 @@
+{
+    "title": "Nourison 2000 Area Rug Collection from Nourison",
+    "description": "Redefine luxury with Nourison's most popular hand-made signature collection featuring Persian and European traditional designs. The dense pile, splendid patterns, deeply compelling textures and intriguing aesthetics are certain to command immediate attention in any setting. Style and sophistication will be projected with this opulent, versatile and appealing collection of fine rugs that are available in a wide variety of shapes and sizes, including ovals, rounds and octagons.\n \nPure New Zealand Wool Pile with Genuine Silk, Handmade in China",
+    "referenceId": "e364e0f07bbbf770900dac0c5752ae5b",
+    "date_created": "1515783623",
+    "date_modified": "1515784147",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390729",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Nourison-2000-Area-Rug-Collection-from-Nourison-mp4",
+    "category": "",
+    "duration": "139",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "139",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "139",
+        "prettyDuration": "00:02:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/thumb-e364e0f07bbbf770900dac0c5752ae5b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390729\/01ac4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390729\/cc\/vtt\/en_1515784147.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

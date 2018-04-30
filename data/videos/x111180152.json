@@ -1,0 +1,97 @@
+{
+    "title": "Hamilton Beach Stay or Go Coffee maker",
+    "description": "",
+    "referenceId": "24572",
+    "date_created": "1502923985",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180152",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hamilton-beach-stay-or-go-coffee-maker",
+    "category": "",
+    "duration": "104",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "104",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "104",
+        "prettyDuration": "00:01:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/thumb-24572-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180152\/cc\/vtt\/en_1504052002.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180152\/020fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "3\/31\/2011"
+}

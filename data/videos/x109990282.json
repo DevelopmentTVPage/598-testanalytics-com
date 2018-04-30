@@ -1,0 +1,97 @@
+{
+    "title": "Brookstone&reg; Better Than Down&reg; Pillow",
+    "description": "",
+    "referenceId": "1710763131",
+    "date_created": "1502522608",
+    "date_modified": "1504293250",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109990282",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "brookstone-better-than-down-pillow",
+    "category": "",
+    "duration": "114",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "114",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "114",
+        "prettyDuration": "00:01:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/thumb-4bda0e1190cd764fa680fcdfaabb7a52-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990282\/400e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109990282\/cc\/vtt\/en_1504293250.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "11\/6\/2015",
+    "created_date": "11\/6\/2015"
+}

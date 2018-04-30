@@ -1,0 +1,97 @@
+{
+    "title": "Cuisinart WAF 100 4 Slice Belgian Waffle Maker",
+    "description": "",
+    "referenceId": "15855",
+    "date_created": "1502923605",
+    "date_modified": "1516394938",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179987",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-waf-100-4-slice-belgian-waffle-maker",
+    "category": "",
+    "duration": "101",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "101",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "101",
+        "prettyDuration": "00:01:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/thumb-15855-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179987\/cc\/vtt\/en_1516394934.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179987\/878ed\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "11\/26\/2013",
+    "created_date": "9\/9\/2010"
+}

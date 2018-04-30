@@ -1,0 +1,101 @@
+{
+    "title": "Weight Watchers Body Analysis Bathroom Scale",
+    "description": "The Weight Watchers Body Analysis Bluetooth Digital Bathroom Scale provides an interactive way to track your measurements. The user memory lets multiple users track their statistics. Measures body fat percentage, body water, bone and body mass index.",
+    "referenceId": "f4336043d796e6d0e3b4913cb15c075e",
+    "date_created": "1505314696",
+    "date_modified": "1515542663",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "healthy_living",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117561175",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Weight-Watchers-Body-Analysis-Bathroom-Scale-mp4",
+    "category": "",
+    "duration": "32",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "32",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "32",
+        "prettyDuration": "00:00:32",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/761980031-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117561175\/cc\/vtt\/en_1506096239.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117561175\/1f623\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC Needed",
+    "uploader": "Melissa Cohen",
+    "modified_date": "",
+    "created_date": "9\/13\/17"
+}

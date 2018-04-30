@@ -1,0 +1,97 @@
+{
+    "title": "EZ Moves",
+    "description": "",
+    "referenceId": "42669",
+    "date_created": "1502924584",
+    "date_modified": "1505768233",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180420",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ez-moves",
+    "category": "",
+    "duration": "40",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "40",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1278\/716\/273562189-0741278790.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180420\/cc\/vtt\/en_1504210095.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180420\/8043b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "4\/11\/2013",
+    "created_date": "1\/11\/2012"
+}

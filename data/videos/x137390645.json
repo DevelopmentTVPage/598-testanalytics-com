@@ -1,0 +1,101 @@
+{
+    "title": "How BreathableBaby Mesh Crib Liners Work- What You Need to Know",
+    "description": "BreathableBaby 100% mesh crib liners use air channel technology to keep your baby sleeping comfortably all night long while preventing crib entanglement. Watch our demo video to see the benefits mesh crib liners can have on the health and safety of your little one. We provide detailed descriptions of the BreathableBaby product line and step by step installation instructions.\n\nOur award winning, patented product design has been shown through independent tests to be significantly more permeable to air than a traditional bumper, effectively protecting your baby from the risk of suffocation. A perfect baby registry addition or gift for new parents, especially those with active sleepers!\n\nPediatrician evaluated and recommended. Recommended ages: 0-12 months.\n\nLearn more about who we are and our safer alternatives to traditional crib bedding at https:\/\/breathablebaby.com\/.\n\nFor additional product information, visit https:\/\/breathablebaby.com\/shop\/breathable-crib-liners\/breathable-mesh-crib-liner\/.",
+    "referenceId": "355234114b65644e9f8343b9888e42fb",
+    "date_created": "1515777665",
+    "date_modified": "1515800748",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390645",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "How-BreathableBaby-Mesh-Crib-Liners-Work-What-You-Need-to-Know-mp4",
+    "category": "",
+    "duration": "138",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "138",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "138",
+        "prettyDuration": "00:02:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/thumb-355234114b65644e9f8343b9888e42fb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390645\/8b57d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390645\/cc\/vtt\/en_1515800748.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

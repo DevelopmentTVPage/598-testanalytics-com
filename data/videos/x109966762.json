@@ -1,0 +1,90 @@
+{
+    "title": "T-Fal&reg; 10-in-1 Multi-Cooker",
+    "description": "",
+    "referenceId": "1159884728",
+    "date_created": "1502518271",
+    "date_modified": "1504288883",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109966762",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "t-fal-10-in-1-multi-cooker",
+    "category": "",
+    "duration": "101",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "101",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "101",
+        "prettyDuration": "00:01:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/thumb-e7b69c488cfc47dfb527be667e02c42d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966762\/9d5ad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "Douglas.French",
+    "modified_date": "4\/8\/2016",
+    "created_date": "4\/8\/2016"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Real Simple Wall Frame Collection",
+    "description": "",
+    "referenceId": "1046485354",
+    "date_created": "1502517371",
+    "date_modified": "1516671891",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109961417",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "real-simple-wall-frame-collection",
+    "category": "",
+    "duration": "131",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "131",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "131",
+        "prettyDuration": "00:02:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/thumb-87cb4fa12bab3a2b733c23d7eebe367c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109961417\/cc\/vtt\/en_1516671887.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961417\/241a6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "christina.steel",
+    "modified_date": "8\/19\/2015",
+    "created_date": "10\/30\/2014"
+}

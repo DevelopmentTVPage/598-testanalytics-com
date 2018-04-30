@@ -1,0 +1,101 @@
+{
+    "title": "Lassig Green Label Neckline Diaper Bag",
+    "description": "",
+    "referenceId": "e227bbd90583180e2faa7520bb200771",
+    "date_created": "1513200930",
+    "date_modified": "1516757100",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "133232214",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Lassig-Neckline-DPBG-mp4",
+    "category": "",
+    "duration": "137",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "137",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/thumb-e227bbd90583180e2faa7520bb200771-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/133232214\/cc\/vtt\/en_1516757100.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133232214\/85337\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "12\/14\/17"
+}

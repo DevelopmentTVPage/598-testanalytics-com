@@ -1,0 +1,97 @@
+{
+    "title": "Hamilton Beach Digital Simplicity Deluxe Rice Cooker\/Steamer",
+    "description": "",
+    "referenceId": "24575",
+    "date_created": "1502923986",
+    "date_modified": "1504809797",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180153",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hamilton-beach-digital-simplicity-deluxe-rice-cooker-steamer",
+    "category": "",
+    "duration": "103",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "103",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "103",
+        "prettyDuration": "00:01:43",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/thumb-24575-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180153\/cc\/vtt\/en_1504809797.vtt",
+                "default": true
+            }
+        ],
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180153\/1d6d9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "3\/29\/2011"
+}

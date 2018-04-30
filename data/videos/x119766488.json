@@ -1,0 +1,101 @@
+{
+    "title": "Top Ramen Microwaveable Cooker",
+    "description": "The perfect gift for any college student, busy parent, or anyone looking for a quick meal on the go, the Top Ramen Microwaveable Cooker allows you to easily and quickly prepare delicious ramen noodles in your microwave.",
+    "referenceId": "5835888c8e52684f65a7ab8822fd3807",
+    "date_created": "1506526589",
+    "date_modified": "1516743874",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Food_Preparation",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119766488",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "TopRamenCooker-60513168-mp4",
+    "category": "",
+    "duration": "75",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "75",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/thumb-5835888c8e52684f65a7ab8822fd3807-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119766488\/cc\/vtt\/en_1516743874.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/27\/17"
+}

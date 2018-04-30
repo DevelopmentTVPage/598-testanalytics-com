@@ -1,0 +1,95 @@
+{
+    "title": "How to make BBQ Burgers with the SousVide Supreme",
+    "description": "",
+    "referenceId": "30280",
+    "date_created": "1502924120",
+    "date_modified": "1504284068",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180218",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "how-to-make-bbq-burgers-with-the-sousvide-supreme",
+    "category": "",
+    "duration": "386",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "386",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "386",
+        "prettyDuration": "00:06:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/thumb-30280-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180218\/632f4\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180218\/cc\/vtt\/en_1504284067.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "6\/10\/2014",
+    "created_date": "7\/7\/2011"
+}

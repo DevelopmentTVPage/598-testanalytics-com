@@ -1,0 +1,101 @@
+{
+    "title": "Kids II Go Grippers Bounce 'N Zoom Speedway",
+    "description": "",
+    "referenceId": "3cc8ddd35ccaaeae05979cad3ac3c419",
+    "date_created": "1512760970",
+    "date_modified": "1512766893",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "132813583",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "46798039-K2-GoGrippersBounceNZoomSpeedway-mp4",
+    "category": "",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "68",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/thumb-3cc8ddd35ccaaeae05979cad3ac3c419-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132813583\/cc\/vtt\/en_1512764967.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813583\/8fcc8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "SRT file provided",
+    "uploader": "Erica Zavolas",
+    "modified_date": "",
+    "created_date": "12\/8\/17"
+}

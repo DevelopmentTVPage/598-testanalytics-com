@@ -1,0 +1,101 @@
+{
+    "title": "Tips for Skincare for Sensitive Skin with the AVEENO ULTRA-CALMING\u00ae Collection - AVEENO\u00ae",
+    "description": "Sensitive skin can be hard to take care of, and finding the right skincare routine for your skin type is important. This skincare regimen for sensitive skin, using the AVEENO ULTRA-CALMING\u00ae Collection, may be the right choice for you.\n\nFor your morning skincare routine, start by cleansing with the AVEENO ULTRA-CALMING\u00ae Foaming Facial Cleanser, and follow up with applying the AVEENO ULTRA-CALMING\u00ae Daily Moisturizer with Broad Spectrum SPF 15.\n\nEnd your day with the AVEENO ULTRA-CALMING\u00ae Makeup Removing Wipes with ACTIVE NATURALS\u00ae Calming Feverfew, then apply the AVEENO ULTRA-CALMING\u00ae Nourishing Night Cream.",
+    "referenceId": "fe874ef2e1477e0a93cb900f61d0bcb3",
+    "date_created": "1515715828",
+    "date_modified": "1516411009",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137286142",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Tips-for-Skincare-for-Sensitive-Skin-with-the-AVEENO-ULTRA-CALMING-Collection-AVEENO-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/thumb-fe874ef2e1477e0a93cb900f61d0bcb3-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137286142\/89d0c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137286142\/cc\/vtt\/en_1516411009.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

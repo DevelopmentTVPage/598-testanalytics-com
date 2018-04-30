@@ -1,0 +1,101 @@
+{
+    "title": "City Tour by Baby Jogger",
+    "description": "The City Tour stroller folds small for big adventures. At only 14 lbs., it folds down small and meets carry-on requirements for many modes of transportation. A convenient backpack-style carry bag comes with the stroller, and an onboard storage compartment within the under seat basket allows it to be stored away when strolling. Add-on accessories allow for easy customization of the City Tour stroller so you\u2019re equipped to carry on with your day, wherever it may lead you.",
+    "referenceId": "58743da92d02875efebdd542d5b0cbdc",
+    "date_created": "1515787653",
+    "date_modified": "1515790730",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390809",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "City-Tour-by-Baby-Jogger-mp4",
+    "category": "",
+    "duration": "71",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "71",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/thumb-58743da92d02875efebdd542d5b0cbdc-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390809\/cc\/vtt\/en_1515790728.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390809\/5a43f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

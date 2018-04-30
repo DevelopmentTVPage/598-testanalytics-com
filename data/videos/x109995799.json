@@ -1,0 +1,97 @@
+{
+    "title": "Luigi Bormioli Birrateque Craft Beer Glass",
+    "description": "",
+    "referenceId": "1886888970",
+    "date_created": "1502523910",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109995799",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "luigi-bormioli-birrateque-craft-beer-glass",
+    "category": "",
+    "duration": "130",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "130",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/thumb-8c01fdf2da323a798f8921ba5c95c68c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109995799\/ed6a6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109995799\/cc\/vtt\/en_1504203774.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "4\/28\/2017",
+    "created_date": "4\/28\/2017"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Pure Beach Jersey Sateen Sheet Set",
+    "description": "",
+    "referenceId": "55150",
+    "date_created": "1502526094",
+    "date_modified": "1504444856",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110008667",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "pure-beach-jersey-knit-sheet-set",
+    "category": "",
+    "duration": "69",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "69",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/thumb-ae4d7ac8693ad8eb6732e85c77379811-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008667\/cc\/vtt\/en_1504137559.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008667\/2b2e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "5\/25\/2012",
+    "created_date": "5\/25\/2012"
+}

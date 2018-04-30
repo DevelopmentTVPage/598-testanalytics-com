@@ -1,0 +1,97 @@
+{
+    "title": "Air-O-Swiss&reg; 2-in-1 Humidifier &amp; Purifier AOS 2055A",
+    "description": "",
+    "referenceId": "1910715494",
+    "date_created": "1502524116",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109997867",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "air-o-swiss-2-in-1-humidifier-purifier-aos-2055a",
+    "category": "",
+    "duration": "147",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "147",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "147",
+        "prettyDuration": "00:02:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/thumb-b82a3f0ee89fe800fda5378cadd040a5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997867\/a7190\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109997867\/cc\/vtt\/en_1504226972.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "han.lee",
+    "modified_date": "3\/14\/2014",
+    "created_date": "3\/14\/2014"
+}

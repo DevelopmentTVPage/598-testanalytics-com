@@ -1,0 +1,101 @@
+{
+    "title": "Cheer for Me! Potty by Fisher Price.mp4",
+    "description": "",
+    "referenceId": "507e52209a2eef3f256fd2c3714604d9",
+    "date_created": "1504638183",
+    "date_modified": "1516738044",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "116066558",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Cheer-for-Me-Potty-by-Fisher-Price-mp4",
+    "category": "",
+    "duration": "35",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "35",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/thumb-507e52209a2eef3f256fd2c3714604d9-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/116066558\/cc\/vtt\/en_1516738039.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116066558\/20f04\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "7\/6\/2011"
+}

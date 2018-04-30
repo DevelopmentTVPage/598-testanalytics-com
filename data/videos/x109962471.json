@@ -1,0 +1,89 @@
+{
+    "title": "Somerset Picnic Basket",
+    "description": "",
+    "referenceId": "1063613488",
+    "date_created": "1502517483",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109962471",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "somerset-picnic-basket",
+    "category": "",
+    "duration": "96",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "96",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "96",
+        "prettyDuration": "00:01:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/thumb-3a2c166faa8004f5a6da5aa4c861db3b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962471\/75174\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "The Last Jedi Teaser Trailer",
+    "description": "",
+    "referenceId": "3a9d5300a2973eb383acd58bbfedc1ac",
+    "date_created": "1509979417",
+    "date_modified": "1510331107",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "requested",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": null,
+    "user_id": null,
+    "id": "128227759",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "TheLastJediTeaserTrailer-mp4",
+    "category": "",
+    "duration": "130",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "130",
+            "width": 1920,
+            "height": 804
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/thumb-3a9d5300a2973eb383acd58bbfedc1ac-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/128227759\/cc\/vtt\/en_1510331093.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 804
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 536
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 358
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 268
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/128227759\/061ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 134
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Spoken Words. CC requested.",
+    "uploader": "Maya Cherbaka",
+    "modified_date": "11\/6\/17",
+    "created_date": "11\/6\/17"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Evolve Ladybug Showerhead Adapter",
+    "description": "",
+    "referenceId": "10722",
+    "date_created": "1502923067",
+    "date_modified": "1516651005",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179750",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "evolve-ladybug-showerhead-adapter",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "123",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/thumb-10722-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179750\/cc\/vtt\/en_1516650999.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/7\/2011",
+    "created_date": "5\/28\/2010"
+}

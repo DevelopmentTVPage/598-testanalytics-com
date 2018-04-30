@@ -1,0 +1,101 @@
+{
+    "title": "MATTIFY Oily Skin with New Micellar Cleansing Water All-In-1 Mattifying - Garnier SkinActive",
+    "description": "Got oily skin? Mattify it with our new Micellar Cleansing Water All-in-1 Mattifying . This new  formula lifts dirt and makeup like a makeup while leaving skin refreshed and shine-free.\u00a0\n\nLearn more about Micellar Cleansing Water All-in-1 Mattifying: http:\/\/www.garnierusa.com\/products\/skincare\/micellar-cleansing-water\/micellar-cleansing-water\/micellar-cleansing-water-all-in-1-mattifying.aspx\n\nLearn more about Micellar Water: http:\/\/www.garnierusa.com\/products\/skincare\/micellar-cleansing-water.aspx\n\nTo learn more about Garnier SkinActive: http:\/\/www.garnierusa.com\/products\/skincare.aspx\n\nFind us on Instagram! @garnierusa http:\/\/instagram.com\/garnierusa\nLike us on Facebook! https:\/\/www.facebook.com\/garnierusa\nFollow us on Twitter! @garnierusa https:\/\/twitter.com\/garnierusa",
+    "referenceId": "c89a7181b33544bda07e6a0e9dfb0de5",
+    "date_created": "1515708543",
+    "date_modified": "1515716938",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285847",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "MATTIFY-Oily-Skin-with-New-Micellar-Cleansing-Water-All-In-1-Mattifying-Garnier-SkinActive-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/thumb-c89a7181b33544bda07e6a0e9dfb0de5-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285847\/cc\/vtt\/en_1515714746.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285847\/f4481\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

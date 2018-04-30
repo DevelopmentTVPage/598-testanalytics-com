@@ -1,0 +1,97 @@
+{
+    "title": "Inflatable Kart for Wii",
+    "description": "",
+    "referenceId": "35320",
+    "date_created": "1502524995",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004181",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "inflatable-kart-for-wii",
+    "category": "",
+    "duration": "105",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "105",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "105",
+        "prettyDuration": "00:01:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/thumb-f81f8f81729d29c71313759964973e89-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004181\/5e3b6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004181\/cc\/vtt\/en_1504224534.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "11\/2\/2011"
+}

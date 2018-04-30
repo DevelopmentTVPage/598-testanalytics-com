@@ -1,0 +1,97 @@
+{
+    "title": "Tiny Love Soothe and Groove Mobile",
+    "description": "",
+    "referenceId": "54260",
+    "date_created": "1502526072",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110008655",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "tiny-love-soothe-and-groove-mobile",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "65",
+            "width": 768,
+            "height": 576
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/thumb-befbe45688797f2a6c8915f615a5160f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 768,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 768,
+                "height": 576
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008655\/cc\/vtt\/en_1504137384.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "5\/17\/2012",
+    "created_date": "5\/8\/2012"
+}

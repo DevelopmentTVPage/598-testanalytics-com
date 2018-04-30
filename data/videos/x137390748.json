@@ -1,0 +1,101 @@
+{
+    "title": "OXO StrongHold Suction Line",
+    "description": "http:\/\/www.oxo.com\/p-1123-strongholdtrade-suction-corner-basket.aspx\n\nThe OXO StrongHold Suction line features PVC-free suction cups for a secure hold on smooth, non-porous surfaces. The suction cups click when they're activated so you know when your accessory is locked into place. Each suction cup has an easy-release tab that allows for repositioning or removal. The Corner Basket, Large Basket, and Soap Dish have angled drainage slots in the base to prevent water from pooling. The Fogless Mirror has a bottom notch for attached razor storage. The Hook Set is perfect for hanging loofahs, body brushes, wash cloths and more.",
+    "referenceId": "d3c597efbb44cc694e5a9489102af2cd",
+    "date_created": "1515783996",
+    "date_modified": "1515801593",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390748",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-10-mp4",
+    "category": "",
+    "duration": "66",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "66",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/thumb-d3c597efbb44cc694e5a9489102af2cd-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390748\/cc\/vtt\/en_1515801593.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

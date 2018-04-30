@@ -1,0 +1,97 @@
+{
+    "title": "Air-O-Swiss&reg; Ultrasonic Digital Warm and Cool Mist Humidifier",
+    "description": "",
+    "referenceId": "1509572794",
+    "date_created": "1502521045",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109980730",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "air-o-swiss-ultrasonic-digital-warm-and-cool-mist-humidifier",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "99",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/thumb-87a08bac3e79d623e4ca76aa0f378df9-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980730\/c3028\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109980730\/cc\/vtt\/en_1504196338.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "han.lee",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

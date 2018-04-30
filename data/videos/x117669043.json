@@ -1,0 +1,101 @@
+{
+    "title": "BISSELL CrossWave All-in-One Multi-Surface Cleaner",
+    "description": "The BISSELL CrossWave All-in-One Multi-Surface Cleaner is the ultimate cleaning system that vacuums and washes floors at the same time. With a dual-action brush roll, this cleaning system cleans better than a sponge mop and bucket and in way less time.",
+    "referenceId": "e2588fe64c4b7b7cfbf3b2a8ffff9206",
+    "date_created": "1505483458",
+    "date_modified": "1506355518",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "storage_and_cleaning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bbb_canada",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117669043",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "BissellCrosswave-61521391-mp4",
+    "category": "",
+    "duration": "84",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "84",
+            "width": 704,
+            "height": 396
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/thumb-e2588fe64c4b7b7cfbf3b2a8ffff9206-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117669043\/cc\/vtt\/en_1506355507.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 704,
+                "height": 396
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 704,
+                "height": 396
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 704,
+                "height": 396
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117669043\/c61ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Requested TVPage to add CC to the video.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/15\/17"
+}

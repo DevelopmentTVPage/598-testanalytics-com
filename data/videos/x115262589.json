@@ -1,0 +1,93 @@
+{
+    "title": "T3 SinglePass Luxe 1-Inch Professional Styling Iron",
+    "description": "",
+    "referenceId": "e9b7e028685e1d25a453c67af2937e86",
+    "date_created": "1504203425",
+    "date_modified": "1504204840",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "115262589",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "MODULE-3-B-VIDEO-mp4",
+    "category": "",
+    "duration": "49",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "49",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/thumb-e9b7e028685e1d25a453c67af2937e86-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/115262589\/95727\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Maya Cherbaka",
+    "modified_date": "8\/31\/17",
+    "created_date": "8\/31\/17"
+}

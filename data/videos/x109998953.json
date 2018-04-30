@@ -1,0 +1,97 @@
+{
+    "title": "Classic Accessories&reg; Furniture Covers",
+    "description": "",
+    "referenceId": "1939194957",
+    "date_created": "1502524384",
+    "date_modified": "1504290518",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109998953",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "classic-accessories-furniture-covers",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "99",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/thumb-c903f32c722387b259dbcf1b2a3853c7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109998953\/283c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109998953\/cc\/vtt\/en_1504290517.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "5\/5\/2015",
+    "created_date": "5\/5\/2015"
+}

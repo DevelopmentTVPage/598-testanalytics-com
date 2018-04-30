@@ -1,0 +1,101 @@
+{
+    "title": "Your Baby's First Hug Inspires Huggies\u00ae Little Snugglers",
+    "description": "Hugs can strengthen your newborn baby's immune system, improve their brain development, and reduce crying, pain, and stress. Hugs are the secret to keeping a baby happy and healthy. Huggies\u00ae believes in the power of hugs as well. In fact, they designed Little Snugglers baby diapers from the inspiration of a mother's sweet warm hug. Little Snugglers Diapers help keep your newborn's perfect skin clean and healthy. For outstanding skin care and a warm swaddling hug, buy Huggies Little Snugglers. \n\nFor more videos about Huggies & hugs, visit: https:\/\/www.youtube.com\/user\/hughuggies\n\nYou can also check us out:\nOn Facebook: https:\/\/www.facebook.com\/huggies\nOn Twitter: https:\/\/twitter.com\/huggies\nOn Pinterest: https:\/\/www.pinterest.com\/huggies\/\nOn Instagram: https:\/\/www.instagram.com\/huggies\/",
+    "referenceId": "85e64a1e521d86459b9d82d7fe4d7523",
+    "date_created": "1515783637",
+    "date_modified": "1515784379",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390731",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Your-Baby-s-First-Hug-Inspires-Huggies-Little-Snugglers-mp4",
+    "category": "",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/446203055-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390731\/cc\/vtt\/en_1515784358.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390731\/4f0d0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

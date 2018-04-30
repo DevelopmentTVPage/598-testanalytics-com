@@ -1,0 +1,101 @@
+{
+    "title": "Why Should You Brew With Mr.Beer It Tastes Great.",
+    "description": "Your Mr. Beer brew will have your friends thinking they are drinking one of their favorite craft beers\n\nVisit us at http:\/\/www.mrbeer.com\/\nGrab one of our Beer Making Kits here: http:\/\/www.mrbeer.com\/beer-making-kits",
+    "referenceId": "d1f7d01cc69caa61898bbb4dc03da65b",
+    "date_created": "1515720828",
+    "date_modified": "1515776668",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137387067",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Why-Should-You-Brew-With-Mr-Beer-It-Tastes-Great-mp4",
+    "category": "",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "83",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/thumb-d1f7d01cc69caa61898bbb4dc03da65b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387067\/a38be\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137387067\/cc\/vtt\/en_1515776668.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

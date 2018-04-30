@@ -1,0 +1,97 @@
+{
+    "title": "Inglesina Net Strollers",
+    "description": "",
+    "referenceId": "1071221332",
+    "date_created": "1502517558",
+    "date_modified": "1515807158",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109963492",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "inglesina-net-strollers",
+    "category": "",
+    "duration": "66",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "66",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/thumb-ebc7cc1b2d19718cff161bf78159631a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109963492\/cc\/vtt\/en_1515807152.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963492\/cd0e6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

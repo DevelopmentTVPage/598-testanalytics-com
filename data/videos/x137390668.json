@@ -1,0 +1,101 @@
+{
+    "title": "2UP STEP STOOL [687 Grey & White]",
+    "description": "The Dreambaby\u00ae 2UP STEP STOOL [687 Grey & White] \n\nQuick Overview:\n\u2022Made from sturdy, durable and lightweight plastic\n\u2022Sure-grip top\n\u2022Perfect for growing kids who are learning potty training\n\u2022Two small steps to carefully reach toilet, bathroom sink and kitchen bench\n\u2022Two handles help make it easy to carry\n\u2022Easy to clean\n\u2022Holds up to 80kg",
+    "referenceId": "8678fb5324d428cbd643b020fc7485a1",
+    "date_created": "1515778821",
+    "date_modified": "1515779662",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390668",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "2UP-STEP-STOOL-687-Grey-White-mp4",
+    "category": "",
+    "duration": "49",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "49",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/857873978-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390668\/64f71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390668\/cc\/vtt\/en_1515779662.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

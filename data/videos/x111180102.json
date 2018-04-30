@@ -1,0 +1,95 @@
+{
+    "title": "SodaStream Pure Soda Maker",
+    "description": "",
+    "referenceId": "19772",
+    "date_created": "1502923867",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180102",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sodastream-pure-soda-maker",
+    "category": "",
+    "duration": "125",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "125",
+            "width": 872,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 872,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 470
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 352
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 176
+            }
+        ],
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/thumb-19772-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180102\/b2bb3\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180102\/cc\/vtt\/en_1504116206.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "1\/7\/2011"
+}

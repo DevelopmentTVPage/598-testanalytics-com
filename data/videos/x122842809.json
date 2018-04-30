@@ -1,0 +1,101 @@
+{
+    "title": "California Innovations ColdLok Expandable Lunch Pack",
+    "description": "",
+    "referenceId": "bca4a5ab5e390268d5b378806e351781",
+    "date_created": "1507733662",
+    "date_modified": "1507734166",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "122842809",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "CAInnovations-ColdLokExpandableLunchPack-45742316-mp4",
+    "category": "",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "82",
+            "width": 1920,
+            "height": 1076
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/thumb-bca4a5ab5e390268d5b378806e351781-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/122842809\/cc\/vtt\/en_1507734153.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1076
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 718
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 478
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 358
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122842809\/6616a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Manually added SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/11\/17"
+}

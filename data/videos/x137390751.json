@@ -1,0 +1,101 @@
+{
+    "title": "KidKraft Wooden Fire Station Play Set - Item 63236",
+    "description": "Young boys and girls will love pretending they are real-life heroes with our adorable Fire Station. This play set is full of fun details like the helipad on the roof and garage doors that open and close. There\u2019s nothing as exciting as saving the day, so make sure you pick this set up for all the young adventurers in your life.\n*10 pieces of furniture\n*2 bendable firefighters\n*Two fun vehicles \u2013 a helicopter and a fire truck!\n*Garage doors open and close\n*Colorful walls decorated with a close attention to detail\n\nDimensions: 16\"L x 16\"W x 19.4 \/ 20\"H (without \/ with turntable)\nMaterials: Wood, MDF, Fabric, Rubber\nCountry of Origin: China",
+    "referenceId": "8a0a34e3201f413f6a8df9a0a5a09b1c",
+    "date_created": "1515785506",
+    "date_modified": "1515786363",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390751",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KidKraft-Wooden-Fire-Station-Play-Set-Item-63236-mp4",
+    "category": "",
+    "duration": "52",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "52",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/351381709-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390751\/23586\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390751\/cc\/vtt\/en_1515786363.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Vitamix Professional Series",
+    "description": "",
+    "referenceId": "5995",
+    "date_created": "1502924781",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180577",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "vitamix-professional-series",
+    "category": "",
+    "duration": "202",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "202",
+            "width": 580,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 580,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 580,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 580,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 436,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 290,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "202",
+        "prettyDuration": "00:03:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/thumb-5995-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180577\/1c54f\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180577\/cc\/vtt\/en_1504121102.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "12\/7\/2011",
+    "created_date": "12\/2\/2009"
+}

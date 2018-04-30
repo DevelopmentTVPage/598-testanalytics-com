@@ -1,0 +1,97 @@
+{
+    "title": "Oxo Good Grips&reg; V-Blade Mandoline Slicer",
+    "description": "",
+    "referenceId": "1365402273",
+    "date_created": "1502519950",
+    "date_modified": "1504290271",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109974347",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oxo-good-grips-v-blade-mandoline-slicer",
+    "category": "",
+    "duration": "125",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "125",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/thumb-6dfb6a55097ad1e2df800edc0df658bb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974347\/06280\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109974347\/cc\/vtt\/en_1504290259.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "6\/28\/2016",
+    "created_date": "6\/28\/2016"
+}

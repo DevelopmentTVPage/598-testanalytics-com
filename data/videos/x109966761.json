@@ -1,0 +1,97 @@
+{
+    "title": "Natural Fit Gift Set",
+    "description": "",
+    "referenceId": "1159380171",
+    "date_created": "1502518267",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109966761",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "natural-fit-gift-set",
+    "category": "",
+    "duration": "161",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "161",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "161",
+        "prettyDuration": "00:02:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/thumb-cea54de3747d5ab0988f04795773499e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966761\/d4207\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109966761\/cc\/vtt\/en_1504205829.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "josh.pahl",
+    "modified_date": "7\/10\/2014",
+    "created_date": "1\/20\/2014"
+}

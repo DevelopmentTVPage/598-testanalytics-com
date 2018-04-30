@@ -1,0 +1,97 @@
+{
+    "title": "Baby K'tan Baby Carrier",
+    "description": "",
+    "referenceId": "17718",
+    "date_created": "1502523135",
+    "date_modified": "1516666778",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109992444",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "baby-k-tan-baby-carrier",
+    "category": "",
+    "duration": "127",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "127",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "127",
+        "prettyDuration": "00:02:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/thumb-d6097886f6cf273eb8a37c0247d38125-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109992444\/cc\/vtt\/en_1516666778.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "10\/17\/2013",
+    "created_date": "11\/9\/2010"
+}

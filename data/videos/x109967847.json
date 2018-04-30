@@ -1,0 +1,97 @@
+{
+    "title": "Hercules Hooks",
+    "description": "",
+    "referenceId": "11873",
+    "date_created": "1502518532",
+    "date_modified": "1505345929",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109967847",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "hercules-hooks",
+    "category": "",
+    "duration": "76",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "76",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "76",
+        "prettyDuration": "00:01:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/thumb-2a5b62be1c0601883b5440b70e6ec74f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967847\/49535\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109967847\/cc\/vtt\/en_1505345929.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/25\/2010"
+}

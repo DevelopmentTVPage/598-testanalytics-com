@@ -1,0 +1,89 @@
+{
+    "title": "KidCo&reg; Gateway Auto Close Pressure Mount Gate",
+    "description": "",
+    "referenceId": "1538803404",
+    "date_created": "1502521321",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109982816",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "kidco-gateway-auto-close-pressure-mount-gate",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/thumb-8d8a70650c745140348146ec14963bf9-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982816\/a7142\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Genevieve.Barnes",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/25\/2017"
+}

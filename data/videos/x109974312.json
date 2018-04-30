@@ -1,0 +1,97 @@
+{
+    "title": "Wamsutta Madeira Comforter and Bedding Collection",
+    "description": "",
+    "referenceId": "1354580246",
+    "date_created": "1502519863",
+    "date_modified": "1504803014",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109974312",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "wamsutta-madeira-comforter-and-bedding-collection",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "77",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/thumb-8b65ade1cf552b720b390c38ed855baf-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974312\/c1724\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109974312\/cc\/vtt\/en_1504803014.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "christina.steel",
+    "modified_date": "6\/2\/2014",
+    "created_date": "6\/2\/2014"
+}

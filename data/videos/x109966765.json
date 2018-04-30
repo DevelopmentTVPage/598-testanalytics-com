@@ -1,0 +1,97 @@
+{
+    "title": "Oxo Good Grips Stainless Steel Mandoline Slicer",
+    "description": "",
+    "referenceId": "11607",
+    "date_created": "1502518280",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109966765",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oxo-good-grips-stainless-steel-mandoline-slicer",
+    "category": "",
+    "duration": "334",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "334",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "334",
+        "prettyDuration": "00:05:34",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/thumb-18a903f90cddd8c825bc65c499fac088-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109966765\/cc\/vtt\/en_1504221367.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966765\/93514\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/9\/2011",
+    "created_date": "5\/11\/2010"
+}

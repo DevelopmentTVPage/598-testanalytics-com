@@ -1,0 +1,97 @@
+{
+    "title": "Dyson&reg; Supersonic Intelligent Heat Control",
+    "description": "",
+    "referenceId": "1551064278",
+    "date_created": "1502521424",
+    "date_modified": "1504286162",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109982850",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "dyson-supersonic-intelligent-heat-control",
+    "category": "",
+    "duration": "66",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "66",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/thumb-a387627e90f39bcb71a719673319ee11-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109982850\/945ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109982850\/cc\/vtt\/en_1504286162.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "10\/14\/2016",
+    "created_date": "10\/14\/2016"
+}

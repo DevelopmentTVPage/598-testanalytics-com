@@ -1,0 +1,101 @@
+{
+    "title": "Halloween Treats for Kids & Adults",
+    "description": "Halloween treats for kids and adults to enjoy!",
+    "referenceId": "ceda46b4e1539ce348ef94212157f1b4",
+    "date_created": "1505421196",
+    "date_modified": "1506355732",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Recipes",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117622924",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Halloween-Treats-for-Kids-Adults-mp4",
+    "category": "",
+    "duration": "86",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "86",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/810\/449\/703228089-01810450.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117622924\/cc\/vtt\/en_1506355688.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117622924\/02cd4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC Needed",
+    "uploader": "Melissa Cohen",
+    "modified_date": "",
+    "created_date": "9\/14\/17"
+}

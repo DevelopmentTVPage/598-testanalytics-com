@@ -1,0 +1,101 @@
+{
+    "title": "iPlay Swim & Sun Wear",
+    "description": "",
+    "referenceId": "d6ef71b685d7fbb05149f5ee73419548",
+    "date_created": "1508249455",
+    "date_modified": "1516740810",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "123508638",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "iPlay-SwimSunWear2017-wSTs-mp4",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "72",
+            "width": 850,
+            "height": 490
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/thumb-d6ef71b685d7fbb05149f5ee73419548-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123508638\/cc\/vtt\/en_1516740806.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 850,
+                "height": 490
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 850,
+                "height": 490
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 626,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123508638\/bc5b8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 184
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has subtitles.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/17\/17"
+}

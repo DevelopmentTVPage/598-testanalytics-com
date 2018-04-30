@@ -1,0 +1,97 @@
+{
+    "title": "TurboSpin Shower Head",
+    "description": "",
+    "referenceId": "53820",
+    "date_created": "1502526017",
+    "date_modified": "1504805584",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110008643",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "turbospin-shower-head",
+    "category": "",
+    "duration": "170",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "170",
+            "width": 720,
+            "height": 488
+        },
+        "mediaDuration": "170",
+        "prettyDuration": "00:02:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/thumb-8b9f9f2e32585bdc2b7b03ea5580a471-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 488
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 488
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 708,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 532,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008643\/5c7f8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008643\/cc\/vtt\/en_1504805584.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "FTP",
+    "modified_date": "5\/7\/2012",
+    "created_date": "5\/7\/2012"
+}

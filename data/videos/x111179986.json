@@ -1,0 +1,97 @@
+{
+    "title": "Cuisinart WCH 1500 Clean Water Water Filtration System",
+    "description": "",
+    "referenceId": "15853",
+    "date_created": "1502923603",
+    "date_modified": "1516659267",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179986",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-wch-1500-clean-water-water-filtration-system",
+    "category": "",
+    "duration": "179",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "179",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "179",
+        "prettyDuration": "00:02:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/thumb-15853-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179986\/cc\/vtt\/en_1516659262.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179986\/a2888\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/3\/2013",
+    "created_date": "9\/14\/2010"
+}

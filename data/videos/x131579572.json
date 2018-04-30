@@ -1,0 +1,93 @@
+{
+    "title": "Copper Chef 3-Piece Perfect Pizza and Crisper Pan Set",
+    "description": "",
+    "referenceId": "ca1f80a00e6f32471d2d1b676e41c4b8",
+    "date_created": "1511888496",
+    "date_modified": "1511972964",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Food_Preparation",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "131579572",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "CopperChef-PizzaPan-62653510-mp4",
+    "category": "",
+    "duration": "46",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "46",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/thumb-ca1f80a00e6f32471d2d1b676e41c4b8-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/131579572\/755e7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has subtitles.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "11\/28\/17"
+}

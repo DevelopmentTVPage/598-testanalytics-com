@@ -1,0 +1,101 @@
+{
+    "title": "Chelsea Xtra-Wide Hallway Auto-Close Security Gate [170 White].mp4",
+    "description": "Chelsea Xtra-Wide Hallway Auto-Close Security Gate [170 White]\n\nDreambaby\u00ae Chelsea Xtra-Wide Hallway Auto-Close Security Gates are a perfect way to add safety and security to your childproof home.\n\nThey are suitable for openings between 97-108cm (38.1-42.5\"). With optional extensions, they can fit openings up to 5.04m (198.5\").\n\nPrevent entry into danger zones around the homes and have some peace of mind, knowing that curious toddlers can't get into mischief.\n\nGate height 75 cm(29.5in) tall.\nFor more information visit the website relevant to your country.\n\nhttp:\/\/www.dream-baby.com\nhttp:\/\/www.dreambaby.com.au\nhttp:\/\/www.dreambaby.co.uk",
+    "referenceId": "950bb751e63c496e8d911b4a8fdab515",
+    "date_created": "1515778826",
+    "date_modified": "1515779727",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390669",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Chelsea-Xtra-Wide-Hallway-Auto-Close-Security-Gate-170-White-mp4",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "90",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/thumb-950bb751e63c496e8d911b4a8fdab515-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390669\/cb80e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390669\/cc\/vtt\/en_1515779727.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

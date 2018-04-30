@@ -1,0 +1,93 @@
+{
+    "title": "Why by James Dyson",
+    "description": "",
+    "referenceId": "a8a6eecb1241d39269edf83f8e51a14e",
+    "date_created": "1504639290",
+    "date_modified": "1504640959",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "116067569",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-29-mp4",
+    "category": "",
+    "duration": "78",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "78",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/thumb-a8a6eecb1241d39269edf83f8e51a14e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116067569\/67213\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "3\/24\/2016",
+    "created_date": "3\/24\/2016"
+}

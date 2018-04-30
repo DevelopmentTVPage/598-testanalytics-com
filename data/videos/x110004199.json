@@ -1,0 +1,90 @@
+{
+    "title": "Peg Perego Prima Pappa Best Paloma Highchair",
+    "description": "",
+    "referenceId": "40454",
+    "date_created": "1502525034",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004199",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "peg-perego-prima-pappa-best-paloma-highchair",
+    "category": "",
+    "duration": "120",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "120",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/thumb-674419b34faed5814b47095b6a82c3ee-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004199\/28481\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": []
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "12\/5\/2011",
+    "created_date": "12\/5\/2011"
+}

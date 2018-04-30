@@ -1,0 +1,90 @@
+{
+    "title": "Chantal&reg;  Enamel Steel Tea Kettles",
+    "description": "",
+    "referenceId": "1116689811",
+    "date_created": "1502517933",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109964628",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "chantal-enamel-steel-tea-kettles",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "54",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/thumb-8c8f882003c814e4dcb32b2dd494674f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109964628\/483b4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": []
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "4\/27\/2017",
+    "created_date": "4\/27\/2017"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Introducing the NutriBullet Pro - 900 Series",
+    "description": "We are thrilled to introduce a new member to the NutriBullet family.  The NutriBullet 900 boasts a more powerful motor with 25,000 RPMs, new accessories and a Blast with an even smoother finish.  You are going to love this product.  Check out our video to see all the latest updates!\n\nFor more information, please visit: https:\/\/www.nutriliving.com\/\n\nFollow us @theNutriBullet:\nFacebook: https:\/\/www.facebook.com\/thenutribullet\nInstagram: https:\/\/instagram.com\/thenutribullet\/\nTwitter: https:\/\/twitter.com\/thenutribullet\nVine: https:\/\/vine.co\/The.NutriBullet\nPinterest: https:\/\/www.pinterest.com\/thenutribullet\/",
+    "referenceId": "a8515863d579b8356c880b049ba399d2",
+    "date_created": "1515714285",
+    "date_modified": "1516209036",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137285869",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-the-NutriBullet-Pro-900-Series-mp4",
+    "category": "",
+    "duration": "156",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "156",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "156",
+        "prettyDuration": "00:02:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137285869\/746e0\/thumb-a8515863d579b8356c880b049ba399d2-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137285869\/cc\/vtt\/en_1516208997.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285869\/746e0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285869\/746e0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285869\/746e0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285869\/746e0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137285869\/746e0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

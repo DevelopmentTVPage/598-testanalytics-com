@@ -1,0 +1,101 @@
+{
+    "title": "19_MODULE_3-A_t3_VIDEO.mp4",
+    "description": "",
+    "referenceId": "b5b8dfa63fe5ed1e00ce26d56fafbcf1",
+    "date_created": "1506545291",
+    "date_modified": "1507569288",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "health_and_beauty",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "119766836",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "19-MODULE-3-A-VIDEO-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/thumb-b5b8dfa63fe5ed1e00ce26d56fafbcf1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/119766836\/cc\/vtt\/en_1507135075.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/119766836\/92a4f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "T3 upload for embed code only",
+    "uploader": "kelly walczak",
+    "modified_date": "9.2.8.17",
+    "created_date": "9.28.17"
+}

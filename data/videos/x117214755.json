@@ -1,0 +1,93 @@
+{
+    "title": "ED Ellen Degeneres",
+    "description": "",
+    "referenceId": "7637823024bf27429f43d13f0d01c6ed",
+    "date_created": "1504893418",
+    "date_modified": "1504894659",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117214755",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Ed-Home-Collection-041717-1-with-subtitles-mp4",
+    "category": "",
+    "duration": "31",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "31",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/thumb-7637823024bf27429f43d13f0d01c6ed-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117214755\/a60e8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Brand page video. US & CA. Open Caption Video",
+    "uploader": "Maya Cherbaka",
+    "modified_date": "09\/08\/2017",
+    "created_date": "09\/08\/2017"
+}

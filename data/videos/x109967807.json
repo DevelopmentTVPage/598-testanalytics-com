@@ -1,0 +1,97 @@
+{
+    "title": "Waring Pro WMK300A Belgian Waffle Maker",
+    "description": "",
+    "referenceId": "11723",
+    "date_created": "1502518454",
+    "date_modified": "1509468775",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109967807",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "waring-pro-wmk300a-belgian-waffle-maker",
+    "category": "",
+    "duration": "79",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "79",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/thumb-1b4571ab9c4ebf8fa841a79e29bf6282-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109967807\/cc\/vtt\/en_1504222423.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967807\/f32c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "9\/2\/2013",
+    "created_date": "5\/18\/2010"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Go Behind the Behind Scenes with Eva Longoria for Superior Preference!.mp4",
+    "description": "Eva Longoria gets candid on the set of our Superior Preference shoot.\n\nWith Fade-Defying Colorants, Superior Preference stays true to tone for up to eight weeks without fading or turning dull and brassy. Care Supr\u00eame Conditioner, enriched with Vitamin E and UV filter, helps lock in first-day color vibrancy, brilliance, and shine.\nLearn more at: http:\/\/bit.ly\/YTSuperiorPreference\n\nFind us on Instagram http:\/\/instagram.com\/lorealparisusa\nLike us on Facebook! https:\/\/www.facebook.com\/LOrealParisUSA\nFollow us on twitter! @LOrealParisUSA https:\/\/twitter.com\/LOrealParisUSA",
+    "referenceId": "46a1aa35cab170fd5a874c60cca6bd10",
+    "date_created": "1515787662",
+    "date_modified": "1516037029",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390810",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Go-Behind-the-Behind-Scenes-with-Eva-Longoria-for-Superior-Preference-mp4",
+    "category": "",
+    "duration": "120",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "120",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/thumb-46a1aa35cab170fd5a874c60cca6bd10-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390810\/cc\/vtt\/en_1516037021.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390810\/d916d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

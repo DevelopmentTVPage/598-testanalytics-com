@@ -1,0 +1,101 @@
+{
+    "title": "Dreambaby\u00ae Backseat Mirror [291]",
+    "description": "The Dreambaby\u00ae Backseat Mirror [291]\n\u2022 Keep rearward facing children in backseat in full view\n \u2022 Attachment options to suit most vehicles\n\nFor more information visit the website relevant to your country.\n\nhttp:\/\/www.dream-baby.com\nhttp:\/\/www.dreambaby.com.au\nhttp:\/\/www.dreambaby.co.uk",
+    "referenceId": "c92bc89573a7591a72c6edc256c98e13",
+    "date_created": "1515777025",
+    "date_modified": "1515777994",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390640",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Dreambaby-Backseat-Mirror-291-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/thumb-c92bc89573a7591a72c6edc256c98e13-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390640\/a56f6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390640\/cc\/vtt\/en_1515777994.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

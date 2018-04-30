@@ -1,0 +1,90 @@
+{
+    "title": "LectroFan Sound Therapy Machine",
+    "description": "",
+    "referenceId": "1951690392",
+    "date_created": "1502524485",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110000990",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "lectrofan-sound-therapy-machine",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "77",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/thumb-ca5ba5dfb8ae2caafeb1bc78b76e783b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": []
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

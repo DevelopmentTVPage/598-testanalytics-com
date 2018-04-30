@@ -1,0 +1,97 @@
+{
+    "title": "I Got Control iPhone\/iPad Universal Remote",
+    "description": "",
+    "referenceId": "19788",
+    "date_created": "1502923873",
+    "date_modified": "1516656002",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180104",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "i-got-control-iphone-ipad-universal-remote",
+    "category": "",
+    "duration": "162",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "162",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "162",
+        "prettyDuration": "00:02:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/thumb-19788-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180104\/cc\/vtt\/en_1516655995.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180104\/077b6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "12\/29\/2010"
+}

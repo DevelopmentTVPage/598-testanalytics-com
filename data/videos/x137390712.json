@@ -1,0 +1,101 @@
+{
+    "title": "SBJ604E- Sun Joe 3-in-1 Electric Blower-Vac-Shredder - Let's Open the Box - How to Assemble",
+    "description": "Access the Sun Joe SBJ604E 3-in-1 Electric Blower\/Vacuum\/Shredder here: http:\/\/www.snowjoe.com\/product\/Blower-Joe-3-IN-1-Electric--Blower%2c-Vacuum---Leaf-Shredder-SBJ604E#.VQH7xPnF98E.\n\nIf you\u2019re looking for a versatile tool that can both sweep and shred leaves, then the Sun Joe\u00ae Blower Joe SBJ604E 3-in-1 blower, vacuum and leaf shredder is the right tool for you. Equipped with a powerful 12-amp motor, the Blower Joe electric leaf blower quickly and instantly converts from a 200 mph leaf blower to a 10-to-1 mulching vacuum with a simple flick of a switch. Compared to heavier and noisier gas-powered machines that leave you smelling of nasty fumes, this electric blower\/vac\/shredder is lighter (only 11.7 bs!), quieter and cleaner, so you can get the job done faster and easier without polluting the air with toxic carbon emissions. Bonus features include 6 adjustable wind speeds, easy-maneuver roller wheels, an ample 14-gallon vacuum bag, and a sleek ergonomic design. Get Equipped\u00ae for fall cleanup with the Sun Joe Blower Joe\u00ae electric leaf blower, vacuum and shredder and instantly lighten up your leaf load.",
+    "referenceId": "b71054bbe2fbb5ef9cf7574747fac0ca",
+    "date_created": "1515780405",
+    "date_modified": "1515781486",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390712",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SBJ604E-Sun-Joe-3-in-1-Electric-Blower-Vac-Shredder-Let-s-Open-the-Box-How-to-Assemble-mp4",
+    "category": "",
+    "duration": "259",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "259",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "259",
+        "prettyDuration": "00:04:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/thumb-b71054bbe2fbb5ef9cf7574747fac0ca-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390712\/70349\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390712\/cc\/vtt\/en_1515781486.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

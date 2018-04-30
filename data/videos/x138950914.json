@@ -1,0 +1,93 @@
+{
+    "title": "IllumiPAD Changing Pad",
+    "description": "",
+    "referenceId": "f44d2e1dc3170571e8b60a2ad755a3ec",
+    "date_created": "1516811722",
+    "date_modified": "1516812273",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "138950914",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "IllumiPAD-mp4",
+    "category": "",
+    "duration": "39",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "39",
+            "width": 856,
+            "height": 480
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/thumb-f44d2e1dc3170571e8b60a2ad755a3ec-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 856,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 856,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 478
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 358
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138950914\/38e0d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no audio.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/24\/18"
+}

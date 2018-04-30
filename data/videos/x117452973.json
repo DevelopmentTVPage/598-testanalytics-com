@@ -1,0 +1,101 @@
+{
+    "title": "Star Wars\u2122 BB-9E App-Enabled Droid with Trainer",
+    "description": "Using the power of the Force, or more aptly your smartphone or tablet, you can control the Star Wars BB-9E App-Enabled Droid. This menacing First Order astromech is an absolute blast to control, especially as it interacts with other App-Enabled Droids.",
+    "referenceId": "78bc700e98e3bf5be7fc6d74699dd7f6",
+    "date_created": "1505226874",
+    "date_modified": "1516730932",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "toys_and_learning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117452973",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SpheroSW-BB9E-POPVideo-mp4",
+    "category": "",
+    "duration": "78",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "78",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/thumb-78bc700e98e3bf5be7fc6d74699dd7f6-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117452973\/cc\/vtt\/en_1516730927.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "No spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/12\/17"
+}

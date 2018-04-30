@@ -1,0 +1,97 @@
+{
+    "title": "Keurig&reg; 2.0 K550 Coffee Brewing System",
+    "description": "",
+    "referenceId": "1811305476",
+    "date_created": "1502523469",
+    "date_modified": "1504334786",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109993563",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "keurig-2-0-k550-coffee-brewing-system",
+    "category": "",
+    "duration": "56",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "56",
+            "width": 720,
+            "height": 400
+        },
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/432719988-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109993563\/cc\/vtt\/en_1504286421.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 356
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109993563\/06425\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 178
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "9\/19\/2014",
+    "created_date": "9\/19\/2014"
+}

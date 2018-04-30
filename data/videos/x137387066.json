@@ -1,0 +1,101 @@
+{
+    "title": "Lunch Crock\u00ae Food Warmer - Crock-Pot\u00ae",
+    "description": "Enjoy warm, hearty lunches without leaving your desk. The Crock-Pot\u00ae Lunch Crock\u00ae Food Warmer is a lunch tote and food warmer in one that warms while you work for delicious on-the-go meals that are ready when and wherever you are. Heat leftovers, soups, oatmeal and any number of favorites into amazing meals away from home. Superior portability features include an outer lid, cool-touch exterior, easy-carry handle and cord storage. Its 20-ounce capacity is perfect for a personal, portion-sized meal. Container is removable for filling and transporting, eliminating the need to travel with entire unit.",
+    "referenceId": "0db0bc91b825f9db0f9a45ffbc9d8b6b",
+    "date_created": "1515720820",
+    "date_modified": "1515721441",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137387066",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Lunch-Crock-Food-Warmer-Crock-Pot-mp4",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/thumb-0db0bc91b825f9db0f9a45ffbc9d8b6b-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137387066\/4ea90\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137387066\/cc\/vtt\/en_1515721441.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

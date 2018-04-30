@@ -1,0 +1,97 @@
+{
+    "title": "Sharper Image Super Juicer",
+    "description": "",
+    "referenceId": "11966",
+    "date_created": "1502518635",
+    "date_modified": "1516299470",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109969891",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sharper-image-super-juicer",
+    "category": "",
+    "duration": "105",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "105",
+            "width": 310,
+            "height": 242
+        },
+        "mediaDuration": "105",
+        "prettyDuration": "00:01:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/thumb-198dc563dbb04ea64b7cb3fe8b3a0d57-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109969891\/cc\/vtt\/en_1516299397.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 310,
+                "height": 242
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 310,
+                "height": 242
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 310,
+                "height": 242
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 310,
+                "height": 242
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969891\/abcad\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 306,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "9\/7\/2013",
+    "created_date": "6\/4\/2010"
+}

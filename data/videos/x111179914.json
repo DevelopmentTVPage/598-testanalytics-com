@@ -1,0 +1,95 @@
+{
+    "title": "Kenneth Cole Reaction Home Towel Collection",
+    "description": "",
+    "referenceId": "1295900559",
+    "date_created": "1502923431",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111179914",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "kenneth-cole-reaction-home-towel-collection",
+    "category": "",
+    "duration": "48",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "48",
+            "width": 640,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/thumb-1295900559-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179914\/374c4\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179914\/cc\/vtt\/en_1504208405.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "ender7647",
+    "modified_date": "2\/28\/2013",
+    "created_date": "2\/27\/2013"
+}

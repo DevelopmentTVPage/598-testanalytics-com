@@ -1,0 +1,97 @@
+{
+    "title": "4moms&reg; mamaRoo&reg; Classic Infant Seat",
+    "description": "",
+    "referenceId": "1251796955",
+    "date_created": "1502518979",
+    "date_modified": "1513715095",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109970017",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "4moms-mamaroo-classic-infant-seat",
+    "category": "",
+    "duration": "46",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "46",
+            "width": 720,
+            "height": 404
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1000\/561\/241400633-0491000610.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109970017\/cc\/vtt\/en_1504197568.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970017\/0fae4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "12\/19\/2017",
+    "created_date": "1\/12\/2015"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "SnapBagger Yard Lawn Leaf Bagging Tool",
+    "description": "",
+    "referenceId": "16435",
+    "date_created": "1502923643",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180002",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "snapbagger-yard-lawn-leaf-bagging-tool",
+    "category": "",
+    "duration": "128",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "128",
+            "width": 960,
+            "height": 544
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "mediaDuration": "128",
+        "prettyDuration": "00:02:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/thumb-16435-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180002\/db965\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180002\/cc\/vtt\/en_1504117033.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "10\/6\/2010"
+}

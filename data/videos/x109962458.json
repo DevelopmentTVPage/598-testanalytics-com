@@ -1,0 +1,89 @@
+{
+    "title": "Anna Boiardi 4-Piece Fast Cooker Set",
+    "description": "",
+    "referenceId": "1060630467",
+    "date_created": "1502517460",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109962458",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "anna-boiardi-4-piece-fast-cooker-set",
+    "category": "",
+    "duration": "104",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "104",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "104",
+        "prettyDuration": "00:01:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/thumb-971b4c96d491c947b8f90d798a4b359d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109962458\/8de51\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "brianc",
+    "modified_date": "1\/31\/2014",
+    "created_date": "1\/24\/2014"
+}

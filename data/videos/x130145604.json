@@ -1,0 +1,101 @@
+{
+    "title": "ED Holiday Collection Video",
+    "description": "",
+    "referenceId": "e9652aa1650544775d553d7c9f464f64",
+    "date_created": "1511195893",
+    "date_modified": "1512408372",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "130145604",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ED-Holiday-Collection-Video-mp4",
+    "category": "",
+    "duration": "16",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "16",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/thumb-e9652aa1650544775d553d7c9f464f64-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/130145604\/cc\/vtt\/en_1512408154.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video is for brand landing pages. Requested SRT file from TVPage for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "11\/16\/17"
+}

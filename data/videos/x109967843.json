@@ -1,0 +1,97 @@
+{
+    "title": "Sure Clip Nail Clipper",
+    "description": "",
+    "referenceId": "11869",
+    "date_created": "1502518523",
+    "date_modified": "1516298504",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109967843",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sure-clip-nail-clipper",
+    "category": "",
+    "duration": "63",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "63",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/thumb-f12f609a38160cfd607b975d1225c8b1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967843\/b9099\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109967843\/cc\/vtt\/en_1516298504.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/25\/2010"
+}

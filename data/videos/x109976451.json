@@ -1,0 +1,97 @@
+{
+    "title": "Kenneth Cole Reaction Home Hotel Ink Comforter",
+    "description": "",
+    "referenceId": "1411719786",
+    "date_created": "1502520237",
+    "date_modified": "1509994285",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109976451",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "kenneth-cole-reaction-home-hotel-ink-comforter",
+    "category": "",
+    "duration": "97",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "97",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/thumb-46af8360d1c388f39d3fb5bae800c4ed-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976451\/62223\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109976451\/cc\/vtt\/en_1509994285.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "mickey",
+    "modified_date": "3\/21\/2013",
+    "created_date": "3\/20\/2013"
+}

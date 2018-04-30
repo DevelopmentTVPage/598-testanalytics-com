@@ -1,0 +1,95 @@
+{
+    "title": "Mastrad TopChips Chips Maker",
+    "description": "",
+    "referenceId": "1933494035",
+    "date_created": "1502923839",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180085",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "mastrad-topchips-chips-maker",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 320,
+            "height": 240
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/thumb-1933494035-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180085\/cc\/vtt\/en_1504201981.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "10\/17\/2012",
+    "created_date": "10\/17\/2012"
+}

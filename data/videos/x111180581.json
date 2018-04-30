@@ -1,0 +1,95 @@
+{
+    "title": "CARES Child Aviation Safety Restraint",
+    "description": "",
+    "referenceId": "6029",
+    "date_created": "1502924788",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180581",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cares-child-aviation-safety-restraint",
+    "category": "",
+    "duration": "234",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "234",
+            "width": 640,
+            "height": 480
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "234",
+        "prettyDuration": "00:03:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/thumb-6029-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180581\/3b4dc\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180581\/cc\/vtt\/en_1504133318.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "dvd",
+    "modified_date": "12\/9\/2011",
+    "created_date": "12\/7\/2009"
+}

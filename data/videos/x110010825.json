@@ -1,0 +1,97 @@
+{
+    "title": "Real Simple Wood Blinds",
+    "description": "",
+    "referenceId": "59500",
+    "date_created": "1502526321",
+    "date_modified": "1504247457",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110010825",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "real-simple-wood-blinds",
+    "category": "",
+    "duration": "81",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "81",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/thumb-98dd1ef42a9bf2ee8d5503357bac0c40-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010825\/d4718\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110010825\/cc\/vtt\/en_1504209195.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "FTP",
+    "modified_date": "3\/3\/2013",
+    "created_date": "8\/7\/2012"
+}

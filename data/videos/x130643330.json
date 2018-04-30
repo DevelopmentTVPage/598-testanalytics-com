@@ -1,0 +1,101 @@
+{
+    "title": "Body Glove Navigator Inflatable Stand Up Paddle Board Set",
+    "description": "",
+    "referenceId": "588cf7e07577804aca3412e9244dc3d4",
+    "date_created": "1511362320",
+    "date_modified": "1516754061",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "130643330",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Body-Glove-Navigator-Inflatable-Stand-Up-Paddleboard-mp4",
+    "category": "",
+    "duration": "110",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1257\/698\/674843341-021257700.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/130643330\/cc\/vtt\/en_1516754057.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/130643330\/d05fc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Julie McLaughlin",
+    "modified_date": "11\/22\/2017",
+    "created_date": "11\/22\/2017"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "BabyBjorn HighChair",
+    "description": "",
+    "referenceId": "1210187795",
+    "date_created": "1502518736",
+    "date_modified": "1504713896",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109969922",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "babybjorn-highchair-final-512-mov",
+    "category": "",
+    "duration": "100",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "100",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "100",
+        "prettyDuration": "00:01:40",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/thumb-4f46d0b9ad7d6fd8aadfba2c30743653-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969922\/63246\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

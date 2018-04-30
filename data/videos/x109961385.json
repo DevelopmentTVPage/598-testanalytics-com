@@ -1,0 +1,97 @@
+{
+    "title": "BabyBjorn Carrier Extended",
+    "description": "",
+    "referenceId": "1036493072",
+    "date_created": "1502517300",
+    "date_modified": "1516820304",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109961385",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "babybjorn-carrier-extended-final-512-mov",
+    "category": "",
+    "duration": "170",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "170",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "170",
+        "prettyDuration": "00:02:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/thumb-8ff85926a57d034f87c4a4d216a38b04-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109961385\/cc\/vtt\/en_1516820299.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961385\/73a16\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

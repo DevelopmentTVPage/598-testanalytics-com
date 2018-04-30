@@ -1,0 +1,93 @@
+{
+    "title": "Fagor Duo Pressure Cookers",
+    "description": "",
+    "referenceId": "9bb7dfb6691156a0faa74108366e716d",
+    "date_created": "1516294005",
+    "date_modified": "1516295115",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Food_Preparation",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "138138149",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "DUOPressureCooker-13151270-17386727-mp4",
+    "category": "",
+    "duration": "46",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "46",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/thumb-9bb7dfb6691156a0faa74108366e716d-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138138149\/deeba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Video has no spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/18\/18"
+}

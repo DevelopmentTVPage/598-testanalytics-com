@@ -1,0 +1,97 @@
+{
+    "title": "Color Solutions Bath Towels by WestPoint Home, 100% Cotton",
+    "description": "",
+    "referenceId": "29058",
+    "date_created": "1502924097",
+    "date_modified": "1516654634",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "111180203",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "color-solutions-bath-towels-by-westpoint-home-100-cotton",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "87",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/thumb-29058-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180203\/cc\/vtt\/en_1516654629.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180203\/ec37f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "richard.fagan",
+    "modified_date": "6\/10\/2014",
+    "created_date": "6\/22\/2011"
+}

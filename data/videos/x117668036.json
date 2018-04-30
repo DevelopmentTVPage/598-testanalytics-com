@@ -1,0 +1,101 @@
+{
+    "title": "Vitamix A2500 Ascent Series Blender",
+    "description": "Constructed with smart technology, the A2500 Ascent Series Blender takes the guesswork out of all your blending tasks. This sleek kitchen tool features 3 preprogrammed settings that adjust to the size of the container in use for accurate mixing results.",
+    "referenceId": "3fdab1fdc593a657e29db450fa6bfbf4",
+    "date_created": "1505480955",
+    "date_modified": "1506002650",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bbb_canada",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "117668036",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Vitamix-AscentSeries-2500-mp4",
+    "category": "",
+    "duration": "71",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "71",
+            "width": 1920,
+            "height": 960
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/thumb-3fdab1fdc593a657e29db450fa6bfbf4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 960
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 426
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117668036\/0b06d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 160
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117668036\/cc\/vtt\/en_1506002649.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Added SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/15\/17"
+}

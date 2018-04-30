@@ -1,0 +1,97 @@
+{
+    "title": "E-Rest InnerFlex Memory Foam Mattress",
+    "description": "",
+    "referenceId": "1493715073",
+    "date_created": "1502520924",
+    "date_modified": "1504247456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109980687",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "e-rest-innerflex-memory-foam-mattress",
+    "category": "",
+    "duration": "80",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "80",
+            "width": 852,
+            "height": 480
+        },
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/thumb-8a5f8c4f2345a5952b3d60f0ef46bf1f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109980687\/44c51\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109980687\/cc\/vtt\/en_1504205085.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "4\/27\/2017",
+    "created_date": "4\/27\/2017"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Jura Impressa C60 Fully Automatic Coffee Machine",
+    "description": "",
+    "referenceId": "8f974624febf487c71e1421d4900ac3d",
+    "date_created": "1507148088",
+    "date_modified": "1507150253",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "121360978",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "JuraC60-42937494-mp4",
+    "category": "",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "68",
+            "width": 1920,
+            "height": 960
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/thumb-8f974624febf487c71e1421d4900ac3d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/121360978\/cc\/vtt\/en_1507150198.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 960
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 640
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 426
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 320
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/121360978\/7d2e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 160
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Added SRT file manually for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/4\/17"
+}

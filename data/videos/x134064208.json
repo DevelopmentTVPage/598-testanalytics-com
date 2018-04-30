@@ -1,0 +1,101 @@
+{
+    "title": "DIY Gift Bag for the Coffee Lover",
+    "description": "Looking for a gift to make a coffee lover's day? Want to add a special personal touch? Check out some of our personalizable items: https:\/\/www.bedbathandbeyond.com\/store\/category\/personalized-gifts\/13807\/",
+    "referenceId": "f485ce2137be1b7e47f4c6568ba0a49d",
+    "date_created": "1513606636",
+    "date_modified": "1516751681",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "gifts",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "in_house",
+    "video_classification1": "inspirational_video",
+    "user_id": null,
+    "id": "134064208",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Coffee-Lover-16x9-mp4",
+    "category": "",
+    "duration": "33",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "33",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/thumb-f485ce2137be1b7e47f4c6568ba0a49d-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/134064208\/cc\/vtt\/en_1516751665.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134064208\/65391\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Melissa Cohen",
+    "modified_date": "",
+    "created_date": "12\/18\/17"
+}

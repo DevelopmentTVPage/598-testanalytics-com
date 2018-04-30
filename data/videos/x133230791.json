@@ -1,0 +1,101 @@
+{
+    "title": "OXO Good Grips Angled Measuring Cup",
+    "description": "",
+    "referenceId": "a074a14d55ecdd02f8f6f0cf1d3b0514",
+    "date_created": "1513192514",
+    "date_modified": "1516746068",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Kitchen",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "133230791",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "20-MEASURING-CUPS-CONFORM-NoVO-mov",
+    "category": "",
+    "duration": "27",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "27",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/459\/214\/885440002-01459215.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/133230791\/cc\/vtt\/en_1516746058.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230791\/a597b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Natalia Santos",
+    "modified_date": "",
+    "created_date": "12-13-2017"
+}

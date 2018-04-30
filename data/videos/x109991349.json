@@ -1,0 +1,97 @@
+{
+    "title": "Magic Mesh&reg; Instant Magnetic Screen Door",
+    "description": "",
+    "referenceId": "1733255374",
+    "date_created": "1502522808",
+    "date_modified": "1504332865",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109991349",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "magic-mesh-instant-magnetic-screen-door",
+    "category": "",
+    "duration": "34",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "34",
+            "width": 720,
+            "height": 486
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/895646056-018320197.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109991349\/cc\/vtt\/en_1504210525.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 712,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109991349\/8ad76\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "3\/10\/2017",
+    "created_date": "3\/10\/2017"
+}

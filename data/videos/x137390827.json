@@ -1,0 +1,101 @@
+{
+    "title": "Bridal Shower Makeup and Style Tips - True Match - L\u2019Oreal",
+    "description": "Subscribe to L'Oreal https:\/\/goo.gl\/fnguwv\/trueblush Need some style and beauty advice for a daytime bridal shower? L\u2019Oreal Paris and Rent the Runway provide a few tips for rocking your glam without overshadowing the bride. \n\nThe secret to a flawless bridal shower look is to keep it very natural with a little bit of color using L\u2019Oreal True Match Blush. The trick to a flush cheek is to apply liberally to your cheekbones using a natural coral shade to avoid looking clown-ish. the blush flawlessly complements your skin\u2019s tone and texture. Mix and match using the True Match Makeup, Powder, and Concealer for a perfectly blended makeup look. Find your perfect match, find your True Match.\n\nClick the link above for more info about L\u2019Oreal True Match Blush. Because you\u2019re worth it.\n \nFind us on Instagram http:\/\/instagram.com\/lorealparisusa\nLike us on Facebook! https:\/\/www.facebook.com\/LOrealParisUSA\nFollow us on twitter! @LOrealParisUSA https:\/\/twitter.com\/LOrealParisUSA",
+    "referenceId": "1b8614b9fa7fa6cbc6d2c43b54292cd2",
+    "date_created": "1515789047",
+    "date_modified": "1516036992",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390827",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Bridal-Shower-Makeup-and-Style-Tips-True-Match-L-Oreal-mp4",
+    "category": "",
+    "duration": "180",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "180",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "180",
+        "prettyDuration": "00:03:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/thumb-1b8614b9fa7fa6cbc6d2c43b54292cd2-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390827\/cc\/vtt\/en_1516036955.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390827\/7422a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

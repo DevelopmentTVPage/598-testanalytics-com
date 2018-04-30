@@ -1,0 +1,97 @@
+{
+    "title": "Grillbot Automatic Grill Cleaning Robot",
+    "description": "",
+    "referenceId": "1639957179",
+    "date_created": "1502522103",
+    "date_modified": "1504288865",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109987086",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "grillbot-automatic-grill-cleaning-robot",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/thumb-e53071251ef4d4d21172516c5ceda0dd-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109987086\/8d66e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109987086\/cc\/vtt\/en_1504288865.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "1\/16\/2015",
+    "created_date": "1\/16\/2015"
+}

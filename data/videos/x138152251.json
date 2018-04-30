@@ -1,0 +1,101 @@
+{
+    "title": "Wagan Heated Shiatsu Massage Belt",
+    "description": "",
+    "referenceId": "a8be5e1785a368fc5ef6f65f52d241ee",
+    "date_created": "1516302991",
+    "date_modified": "1516737473",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "138152251",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "HeatedShiatsu-MassageBelt-61322714-VO-mp4",
+    "category": "",
+    "duration": "77",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "77",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/thumb-a8be5e1785a368fc5ef6f65f52d241ee-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/138152251\/cc\/vtt\/en_1516649442.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152251\/4ef9c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/18\/18"
+}

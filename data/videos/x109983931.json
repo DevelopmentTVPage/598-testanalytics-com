@@ -1,0 +1,97 @@
+{
+    "title": "Skip*Hop&reg; Explore &amp; More Explore &amp; More 3-Stage Activity Center",
+    "description": "",
+    "referenceId": "1577638385",
+    "date_created": "1502521643",
+    "date_modified": "1504299305",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109983931",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "skip-hop-explore-more-explore-more-3-stage-activity-center",
+    "category": "",
+    "duration": "53",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "53",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/thumb-ddf25f304bf461a9732bdf31bb4aca19-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109983931\/76751\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109983931\/cc\/vtt\/en_1504299305.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "Douglas.French",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}

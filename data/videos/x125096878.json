@@ -1,0 +1,101 @@
+{
+    "title": "Bed Bath & Beyond: Frequently Asked Questions for College",
+    "description": "",
+    "referenceId": "9d8aefddcf58edee5446264616466ab8",
+    "date_created": "1508871588",
+    "date_modified": "1509141623",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "125096878",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "58556-1-mp4",
+    "category": "",
+    "duration": "128",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "128",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "128",
+        "prettyDuration": "00:02:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/thumb-9d8aefddcf58edee5446264616466ab8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125096878\/d2423\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/125096878\/cc\/vtt\/en_1509141623.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "jamesy",
+    "modified_date": "1\/24\/2013",
+    "created_date": ""
+}

@@ -1,0 +1,101 @@
+{
+    "title": "TITAN_CROSS-SECTION_CRUSH_V6_478wX405h.mp4",
+    "description": "",
+    "referenceId": "35ba25e68b1f6e248eb12cd7b4a83c23",
+    "date_created": "1508423109",
+    "date_modified": "1508775736",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "requested",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": null,
+    "id": "123658294",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "TITAN-CROSS-SECTION-CRUSH-V6-478wX405h-mp4",
+    "category": "",
+    "duration": "16",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "16",
+            "width": 522,
+            "height": 404
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/thumb-35ba25e68b1f6e248eb12cd7b4a83c23-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/123658294\/cc\/vtt\/en_1508775602.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 466,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/123658294\/64a92\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 310,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "upload for embed code only",
+    "uploader": "Kelly Walczak",
+    "modified_date": "10.19.17",
+    "created_date": "10.19.17"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Side Solution Pillow",
+    "description": "",
+    "referenceId": "40298",
+    "date_created": "1502525019",
+    "date_modified": "1504283802",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "110004192",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "side-solution-pillow",
+    "category": "",
+    "duration": "58",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "58",
+            "width": 464,
+            "height": 340
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/thumb-aca644ccd4c58bde2575f0c1083b3cb5-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 464,
+                "height": 340
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 464,
+                "height": 340
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 464,
+                "height": 340
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 464,
+                "height": 340
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004192\/0cbbd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 236
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004192\/cc\/vtt\/en_1504283802.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "richard.fagan",
+    "modified_date": "6\/6\/2014",
+    "created_date": "12\/5\/2011"
+}

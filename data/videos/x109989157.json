@@ -1,0 +1,97 @@
+{
+    "title": "Silverscreen Enhanced HEPA Air Purifier",
+    "description": "",
+    "referenceId": "1664591372",
+    "date_created": "1502522302",
+    "date_modified": "1504813302",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109989157",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "silverscreen-enhanced-hepa-air-purifier",
+    "category": "",
+    "duration": "155",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "155",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "155",
+        "prettyDuration": "00:02:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/thumb-fd5fa10253d3bbe7f1c7a96de80d2b46-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109989157\/3276d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109989157\/cc\/vtt\/en_1504813302.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "douglas.french",
+    "modified_date": "9\/12\/2014",
+    "created_date": "9\/12\/2014"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "OXO Good Grips&reg; Jar Opener with Base Pad",
+    "description": "",
+    "referenceId": "1246020158",
+    "date_created": "1502518964",
+    "date_modified": "1504291617",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109970009",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oxo-good-grips-jar-opener-with-base-pad",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "54",
+            "width": 864,
+            "height": 486
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/thumb-92cf46aeb724a2351d876866dc36f1fa-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 864,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 864,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970009\/06804\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109970009\/cc\/vtt\/en_1504291617.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "douglas.french",
+    "modified_date": "6\/7\/2016",
+    "created_date": "6\/7\/2016"
+}

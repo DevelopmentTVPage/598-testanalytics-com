@@ -1,0 +1,101 @@
+{
+    "title": "Mega Ramp Racing Set",
+    "description": "The Kidkraft Mega Ramp Racing Set gives young kids an awesome one-stop shop for all of their favorite toy cars. It\u2019s a speedy ramp, a parking garage, an elevator, a car wash and a gas station all in one convenient package! The centerpiece of this jumbo-sized racing set is its three-level \u201cMega Ramp,\u201d  which launches cars high in the air after they build up momentum. There\u2019s even a launch pad that kids lower to let the cars go, guaranteeing that they take off at the same time. Features include: \n*Three lights \u2013 green, yellow and red \u2013 that help countdown to the beginning of race time \n*Gliding elevator takes passengers to the top of the parking garage\n*Three-level \u201cMega Ramp\u201d with launch pad for racing cars against one another\n*Three-level spiral ramp\n*Helicopter and helipad\n*Car wash with moving brushes\n*Five vehicles\n*Gas station\n\nDimensions: 34.88\"L x 16\"W x 22.38\"H\nMaterials: MDF, Plastic\nCountry of Origin: China",
+    "referenceId": "e065d8f4705089b3d3bc836bb6fb5904",
+    "date_created": "1515785510",
+    "date_modified": "1515786438",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "137390752",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Mega-Ramp-Racing-Set-mp4",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/961663501-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390752\/58787\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390752\/cc\/vtt\/en_1515786438.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": ""
+}

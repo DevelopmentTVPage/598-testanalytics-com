@@ -1,0 +1,97 @@
+{
+    "title": "LugLoc&reg; Luggage Locator",
+    "description": "",
+    "referenceId": "1286438894",
+    "date_created": "1502519292",
+    "date_modified": "1516134712",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109971130",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "lugloc-luggage-locator",
+    "category": "",
+    "duration": "105",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "105",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "105",
+        "prettyDuration": "00:01:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/thumb-a7b9d14e5e70df2966380d1868c94f79-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109971130\/cc\/vtt\/en_1516134708.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109971130\/e89b6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "10\/1\/2015",
+    "created_date": "10\/1\/2015"
+}

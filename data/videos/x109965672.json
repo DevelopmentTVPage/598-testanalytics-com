@@ -1,0 +1,97 @@
+{
+    "title": "Real Simple Oversized Laundry Hamper",
+    "description": "",
+    "referenceId": "1126983011",
+    "date_created": "1502518001",
+    "date_modified": "1516727295",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109965672",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "real-simple-oversized-laundry-hamper",
+    "category": "",
+    "duration": "206",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "206",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "206",
+        "prettyDuration": "00:03:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/thumb-fa3cbb486ad236fd92d3613ced5f1f17-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109965672\/cc\/vtt\/en_1516727289.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109965672\/8feeb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "CC File Corrupt",
+    "uploader": "ashley.davison",
+    "modified_date": "2\/27\/2014",
+    "created_date": "2\/27\/2014"
+}

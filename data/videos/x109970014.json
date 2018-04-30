@@ -1,0 +1,97 @@
+{
+    "title": "Diaper Buds",
+    "description": "",
+    "referenceId": "1250443368",
+    "date_created": "1502518975",
+    "date_modified": "1516132249",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109970014",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "diaper-buds",
+    "category": "",
+    "duration": "22",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "22",
+            "width": 1080,
+            "height": 720
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/318\/180\/720770472-229320209.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109970014\/cc\/vtt\/en_1516132245.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109970014\/14111\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017"
+}
